@@ -99,19 +99,24 @@ I’m working toward becoming a strong **Software Developer** with a solid found
 
 My goal is to keep learning, build meaningful projects, improve my problem-solving skills, and gain experience by working on real-world software.
 
-## 📊 GitHub
+
+📈 GitHub
+
+I use GitHub to:
+
+Build and maintain projects
+Practice programming
+Learn new technologies
+Document my development journey
+Improve through consistent practice
+
+GitHub: github.com/mahitech580
+
+## 🔥 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahitech580&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahitech580&layout=compact&hide_border=true&theme=transparent" height="165"/>
+  <b>Building consistently. Learning continuously. 🚀</b>
 </p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahitech580&hide_border=true&theme=transparent"/>
-</p>
-
 ## 🤝 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mahitech580)

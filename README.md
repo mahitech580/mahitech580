@@ -111,6 +111,12 @@ Improve through consistent practice
 
 GitHub: github.com/mahitech580
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahitech580/mahitech580/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
+
 ## 🔥 GitHub Contributions
 
 <p align="center">

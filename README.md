@@ -111,11 +111,9 @@ Improve through consistent practice
 
 GitHub: github.com/mahitech580
 
-## 🐍 Contribution Snake
+🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahitech580/mahitech580/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahitech580&hide_border=true" height="170"/> </p>
 
 ## 🔥 GitHub Contributions
 

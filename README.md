@@ -111,10 +111,6 @@ Improve through consistent practice
 
 GitHub: github.com/mahitech580
 
-🔥 Contribution Streak
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahitech580&hide_border=true" height="170"/> </p>
-
 ## 🔥 GitHub Contributions
 
 <p align="center">

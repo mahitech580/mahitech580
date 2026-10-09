@@ -66,89 +66,113 @@ I enjoy learning by building projects that involve **APIs, databases, automation
 
 # 🚀 Featured Projects
 
-## 📊 DataVision Intelligence – AI-Powered Data Intelligence Platform
-
-An end-to-end data intelligence platform for turning raw datasets into actionable insights. It combines automated data profiling, data-quality checks, exploratory analytics, asynchronous AutoML, model comparison, explainability signals, predictions, and a real-time activity stream.
-
-**Tech Stack:** Python · FastAPI · Pandas · Scikit-learn · JavaScript · Chart.js
-
-🔗 [View Project →](https://github.com/mahitech580/DataVision-Intelligence)
+<p align="center">
+  <em>Selected engineering work across applied AI, full-stack products, and data systems.</em>
+</p>
 
 ---
 
-## 🏥 AVERIS – Healthcare Operations Simulation
+### 📊 [DataVision Intelligence](https://github.com/mahitech580/DataVision-Intelligence)
+**AI-powered data intelligence · AutoML · Explainable analytics**
 
-A browser-based healthcare operations experience connecting 18 workspaces for people, journeys, queues, scheduling, capacity, workforce, diagnostics, pharmacy, finance, incidents, quality, insights, reporting, and audit. Uses synthetic data and local browser state to demonstrate connected operational workflows.
+An end-to-end platform that turns raw datasets into actionable insights through automated profiling, data-quality analysis, exploratory analytics, model training, comparison, and predictions.
 
-**Tech Stack:** HTML · CSS · JavaScript · LocalStorage
+**Engineering highlights:** Dataset health and quality signals · background AutoML jobs · live training updates with Server-Sent Events · persisted experiments and models · preprocessing pipelines designed to reduce train/test leakage.
 
-🔗 [View Project →](https://github.com/mahitech580/averis)
+**Tech stack:** Python · FastAPI · Pandas · Scikit-learn · JavaScript · Chart.js
 
-🌐 [Live Demo →](https://mahitech580.github.io/averis/)
-
----
-
-## 🎙️ VoxGen AI – Local Voice AI Assistant
-
-A local-first voice assistant combining speech recognition, a locally hosted language model, conversational memory, command handling, speech output, SQLite conversation history, and a streaming web console with real-time response states.
-
-**Tech Stack:** Python · FastAPI · Ollama · Qwen · Whisper · SQLite · JavaScript · Server-Sent Events
-
-🔗 [View Project →](https://github.com/mahitech580/VoxGen-AI)
+**Explore:** [Source code](https://github.com/mahitech580/DataVision-Intelligence)
 
 ---
 
-## ✈️ TripPilot – Travel Planner
+### 🏥 [AVERIS — Healthcare Operations OS](https://github.com/mahitech580/averis)
+**Product engineering · Workflow simulation · Local-first application**
 
-A practical travel planning web application designed to help users **discover destinations, plan trips, explore transportation options, organize itineraries, manage stays, budgets, and packing lists** in one place.
+A browser-based operations experience that connects 18 workspaces across people, journeys, queues, schedules, capacity, workforce, diagnostics, pharmacy, finance, incidents, quality, insights, reporting, and audit.
 
-**Tech Stack:** HTML · CSS · JavaScript · LocalStorage
+**Engineering highlights:** Connected workspace navigation · locally persisted interactions · operational overviews and workflows · simulated records clearly separated from real healthcare data.
 
-🔗 [View Project →](https://github.com/mahitech580/TripPilot-Travel-Planner)
+**Tech stack:** HTML · CSS · JavaScript · LocalStorage
 
-🌐 [Live Demo →](https://mahitech580.github.io/TripPilot-Travel-Planner/)
-
----
-
-## 🏦 Banking Financial Transaction Management System
-
-A relational database project designed around real-world banking operations including **customers, accounts, transactions, cards, loans, payments, fraud detection, risk analysis, and financial reporting**.
-
-**Tech Stack:** MySQL · SQL · Database Design
-
-🔗 [View Project →](https://github.com/mahitech580/Banking-Financial-Transaction-Management-MySQL)
+**Explore:** [Source code](https://github.com/mahitech580/averis) · [Live website](https://mahitech580.github.io/averis/)
 
 ---
 
-## 🚚 LastMileIQ-SQL
+### 🎙️ [VoxGen AI — Local Voice Assistant](https://github.com/mahitech580/VoxGen-AI)
+**Voice AI · Local LLM · Streaming interfaces**
 
-A PostgreSQL analytics project focused on the **last-mile delivery lifecycle**, covering delivery operations, courier performance, routes, delays, customers, costs, earnings, and delivery risk.
+A local-first voice assistant that combines speech recognition, conversational context, command handling, a local language model, and spoken responses through terminal and browser interfaces.
 
-**Tech Stack:** PostgreSQL · SQL · Data Analysis
+**Engineering highlights:** Qwen3 inference through Ollama · Whisper-based speech-to-text support · separate routes for deterministic commands and open-ended questions · SQLite conversation history · Server-Sent Events for streamed replies · graceful model-unavailable handling.
 
-🔗 [View Project →](https://github.com/mahitech580/LastMileIQ-SQL)
+**Tech stack:** Python · FastAPI · Ollama · Qwen3 · Whisper · SQLite · JavaScript · Server-Sent Events
 
----
-
-## 🎭 Deepfake Video Detection System
-
-A video-analysis project exploring deepfake detection through CNN-based image features and frequency-domain analysis. Includes a Streamlit interface, frame extraction and preprocessing, multi-frame score aggregation, and scripts for working with a custom training dataset.
-
-**Tech Stack:** Python · TensorFlow/Keras · ResNet50 · OpenCV · NumPy · Streamlit
-
-🔗 [View Project →](https://github.com/mahitech580/deepfake-video-detection)
+**Explore:** [Source code](https://github.com/mahitech580/VoxGen-AI)
 
 ---
 
-## 🌾 Crop Yield Prediction & Fertilizer Recommendation
+### ✈️ [TripPilot — Travel Planning OS](https://github.com/mahitech580/TripPilot-Travel-Planner)
+**Interactive web application · Location intelligence · Planning tools**
 
-An agricultural prediction application designed to estimate crop yield using environmental and soil inputs and provide fertilizer recommendations. The repository describes a Flask-based dashboard and regression/deep-learning experimentation for crop and soil scenarios.
+A travel-planning experience for discovering destinations, organizing trips and itineraries, planning transport and stays, estimating budgets, maintaining packing lists, and managing saved trips.
 
-**Tech Stack:** Python · Flask · Machine Learning · Deep Learning · SQLite
+**Engineering highlights:** Destination lookup · current weather context and forecasts · interactive maps and road-route estimates · itinerary and budget planning · local trip library and settings. Flight, train, bus, and hotel inventory are not represented as live booking availability.
 
-🔗 [View Project →](https://github.com/mahitech580/crop-yield-predictor)
+**Tech stack:** HTML · CSS · JavaScript · LocalStorage · Leaflet · Open-Meteo · OSRM
 
-🌐 [Live Demo →](https://crop-yield-predictor-pius.onrender.com)
+**Explore:** [Source code](https://github.com/mahitech580/TripPilot-Travel-Planner) · [Live demo](https://mahitech580.github.io/TripPilot-Travel-Planner/)
+
+---
+
+### 🏦 [Banking Financial Transaction Management System](https://github.com/mahitech580/Banking-Financial-Transaction-Management-MySQL)
+**Database engineering · Financial operations · Advanced SQL**
+
+A MySQL database project modeling connected banking workflows across customers, accounts, transactions, transfers, cards, loans, repayments, payments, settlements, fraud events, and risk analysis.
+
+**Engineering highlights:** Relational modeling and integrity constraints · transaction lifecycle analysis · joins and advanced queries · database-level business logic · indexes and query optimization concepts.
+
+**Tech stack:** MySQL · SQL · Relational database design
+
+**Explore:** [Source code](https://github.com/mahitech580/Banking-Financial-Transaction-Management-MySQL)
+
+---
+
+### 🚚 [LastMileIQ-SQL — Delivery Intelligence](https://github.com/mahitech580/LastMileIQ-SQL)
+**PostgreSQL · Operations analytics · Query optimization**
+
+A SQL-only analytics project that follows last-mile delivery from order and courier assignment through routes, stops, delivery attempts, returns, costs, earnings, and performance.
+
+**Engineering highlights:** Delivery and courier analytics · route efficiency and delay patterns · customer and profitability analysis · CTEs and window functions · views, procedures, triggers, transactions, indexes, and query-plan analysis.
+
+**Tech stack:** PostgreSQL · SQL · Analytical query design
+
+**Explore:** [Source code](https://github.com/mahitech580/LastMileIQ-SQL)
+
+---
+
+### 🎭 [Deepfake Video Detection System](https://github.com/mahitech580/deepfake-video-detection)
+**Computer vision · CNNs · Frequency-domain analysis**
+
+A video-analysis project exploring manipulated-media detection by combining frame-level visual features with frequency-domain signals.
+
+**Engineering highlights:** Video frame extraction and preprocessing · ResNet50-based classification · FFT-based artifact analysis · aggregation across sampled frames · Streamlit interface and scripts for custom model training.
+
+**Tech stack:** Python · TensorFlow/Keras · ResNet50 · OpenCV · NumPy · Streamlit
+
+**Explore:** [Source code](https://github.com/mahitech580/deepfake-video-detection)
+
+---
+
+### 🌾 [Crop Yield Prediction & Fertilizer Recommendation](https://github.com/mahitech580/crop-yield-predictor)
+**Applied machine learning · Agricultural data · Regression**
+
+An agricultural prediction application designed to estimate crop yield from soil and environmental inputs and support fertilizer recommendations.
+
+**Engineering highlights:** Soil nutrient and pH inputs · rainfall and temperature features · crop, season, and irrigation context · regression/deep-learning experiments · Flask-based prediction interface.
+
+**Tech stack:** Python · Flask · Machine Learning · Deep Learning · SQLite
+
+**Explore:** [Source code](https://github.com/mahitech580/crop-yield-predictor) · [Live demo](https://crop-yield-predictor-pius.onrender.com)
 
 ---
 

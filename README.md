@@ -66,6 +66,38 @@ I enjoy learning by building projects that involve **APIs, databases, automation
 
 # 🚀 Featured Projects
 
+## 📊 DataVision Intelligence – AI-Powered Data Intelligence Platform
+
+An end-to-end data intelligence platform for turning raw datasets into actionable insights. It combines automated data profiling, data-quality checks, exploratory analytics, asynchronous AutoML, model comparison, explainability signals, predictions, and a real-time activity stream.
+
+**Tech Stack:** Python · FastAPI · Pandas · Scikit-learn · JavaScript · Chart.js
+
+🔗 [View Project →](https://github.com/mahitech580/DataVision-Intelligence)
+
+---
+
+## 🏥 AVERIS – Healthcare Operations Simulation
+
+A browser-based healthcare operations experience connecting 18 workspaces for people, journeys, queues, scheduling, capacity, workforce, diagnostics, pharmacy, finance, incidents, quality, insights, reporting, and audit. Uses synthetic data and local browser state to demonstrate connected operational workflows.
+
+**Tech Stack:** HTML · CSS · JavaScript · LocalStorage
+
+🔗 [View Project →](https://github.com/mahitech580/averis)
+
+🌐 [Live Demo →](https://mahitech580.github.io/averis/)
+
+---
+
+## 🎙️ VoxGen AI – Local Voice AI Assistant
+
+A local-first voice assistant combining speech recognition, a locally hosted language model, conversational memory, command handling, speech output, SQLite conversation history, and a streaming web console with real-time response states.
+
+**Tech Stack:** Python · FastAPI · Ollama · Qwen · Whisper · SQLite · JavaScript · Server-Sent Events
+
+🔗 [View Project →](https://github.com/mahitech580/VoxGen-AI)
+
+---
+
 ## ✈️ TripPilot – Travel Planner
 
 A practical travel planning web application designed to help users **discover destinations, plan trips, explore transportation options, organize itineraries, manage stays, budgets, and packing lists** in one place.
@@ -95,6 +127,28 @@ A PostgreSQL analytics project focused on the **last-mile delivery lifecycle**, 
 **Tech Stack:** PostgreSQL · SQL · Data Analysis
 
 🔗 [View Project →](https://github.com/mahitech580/LastMileIQ-SQL)
+
+---
+
+## 🎭 Deepfake Video Detection System
+
+A video-analysis project exploring deepfake detection through CNN-based image features and frequency-domain analysis. Includes a Streamlit interface, frame extraction and preprocessing, multi-frame score aggregation, and scripts for working with a custom training dataset.
+
+**Tech Stack:** Python · TensorFlow/Keras · ResNet50 · OpenCV · NumPy · Streamlit
+
+🔗 [View Project →](https://github.com/mahitech580/deepfake-video-detection)
+
+---
+
+## 🌾 Crop Yield Prediction & Fertilizer Recommendation
+
+An agricultural prediction application designed to estimate crop yield using environmental and soil inputs and provide fertilizer recommendations. The repository describes a Flask-based dashboard and regression/deep-learning experimentation for crop and soil scenarios.
+
+**Tech Stack:** Python · Flask · Machine Learning · Deep Learning · SQLite
+
+🔗 [View Project →](https://github.com/mahitech580/crop-yield-predictor)
+
+🌐 [Live Demo →](https://crop-yield-predictor-pius.onrender.com)
 
 ---
 

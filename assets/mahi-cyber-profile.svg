@@ -150,7 +150,7 @@
 
   <rect x="550" y="478" width="588" height="25" rx="6" fill="#071d2b" stroke="#155e75" stroke-opacity=".8"/>
   <text x="563" y="494" class="mono" font-size="11" fill="#67e8f9">&gt; BUILD. LEARN. SOLVE. REPEAT.</text>
-  <text x="1123" y="494" text-anchor="end" class="mono" font-size="12" fill="#c4b5fd" class="blink">_</text>
+  <text x="1123" y="494" text-anchor="end" class="mono blink" font-size="12" fill="#c4b5fd">_</text>
 
   <!-- Footer -->
   <text x="39" y="550" class="mono tiny muted">GITHUB.COM/MAHITECH580</text>

@@ -48,7 +48,7 @@ I’m open to **entry-level software development opportunities** and interested 
 
 <p><strong>LANGUAGES & WEB</strong></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css&theme=dark" alt="Python, JavaScript, C++, HTML and CSS" />
+  <img src="https://skillicons.dev/icons?i=py,js,cpp,html,css&theme=dark" alt="Python, JavaScript, C++, HTML and CSS" />
 </p>
 
 <p><strong>BACKEND & INTERFACES</strong></p>
@@ -63,7 +63,9 @@ I’m open to **entry-level software development opportunities** and interested 
 
 <p><strong>AI / ML & DATA</strong></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,opencv&theme=dark" alt="Pandas, NumPy, scikit-learn, TensorFlow and OpenCV" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&theme=dark" alt="Scikit-learn, TensorFlow and OpenCV" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
 </p>
 
 <p><strong>DEVELOPER TOOLS</strong></p>

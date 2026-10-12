@@ -17,6 +17,7 @@
   🔴 <a href="#contributions">CONTRIBUTION GRID</a> &nbsp;·&nbsp;
   🟣 <a href="#about">ABOUT</a> &nbsp;·&nbsp;
   🟡 <a href="#engineering-focus">FOCUS</a> &nbsp;·&nbsp;
+  🍃 <a href="#engineering-ecosystem">ECOSYSTEM</a> &nbsp;·&nbsp;
   🔵 <a href="#engineering-stack">TECH STACK</a> &nbsp;·&nbsp;
   🌸 <a href="#ai-ml-practice">AI / ML</a> &nbsp;·&nbsp;
   🟠 <a href="#projects">PROJECTS</a> &nbsp;·&nbsp;
@@ -39,8 +40,6 @@
 ---
 
 <a id="about"></a>
-<p align="center"><strong>02 // ABOUT</strong></p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mahitech580/mahitech580/main/assets/sections/about-panel.svg" alt="Animated terminal-style About panel for Mahendra Sai Kondaveeti, CSE graduate 2026, focused on Python, SQL, backend development, and applied AI/ML" width="100%" />
 </p>

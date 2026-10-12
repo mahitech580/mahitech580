@@ -46,47 +46,29 @@ I’m open to **entry-level software development opportunities** and interested 
 
 ## <a id="tech-stack"></a>02 // Tech Stack
 
-<p><strong>Languages</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<p><strong>LANGUAGES & WEB</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css&theme=dark" alt="Python, JavaScript, C++, HTML and CSS" />
 </p>
 
-<p><strong>Web & Backend</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+<p><strong>BACKEND & INTERFACES</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,react,nodejs&theme=dark" alt="Flask, FastAPI, React and Node.js" />
 </p>
 
-<p><strong>Databases</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<p><strong>DATABASES</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" alt="MySQL, PostgreSQL, SQLite and MongoDB" />
 </p>
 
-<p><strong>AI, Machine Learning & Data</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<p><strong>AI / ML & DATA</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,opencv&theme=dark" alt="Pandas, NumPy, scikit-learn, TensorFlow and OpenCV" />
 </p>
 
-<p><strong>Tools</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+<p><strong>DEVELOPER TOOLS</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code" />
 </p>
 
 ---
@@ -98,65 +80,73 @@ I’m open to **entry-level software development opportunities** and interested 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>◈ <a href="https://github.com/mahitech580/DataVision-Intelligence">DataVision Intelligence</a></h3>
+      <p align="center"><a href="https://github.com/mahitech580/DataVision-Intelligence"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahitech580&amp;repo=DataVision-Intelligence&amp;theme=transparent&amp;hide_border=true&amp;bg_color=050914&amp;title_color=67e8f9&amp;icon_color=a78bfa&amp;text_color=dbeafe" alt="Live GitHub project card for DataVision Intelligence" /></a></p>
       <p><strong>Data intelligence · AutoML · Explainability</strong></p>
       <p>Analyzes uploaded datasets with profiling, data-quality signals, exploratory analytics, model training/comparison, explanations, and predictions. Training jobs emit real-time progress updates.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /></p>
+      <p><img src="https://img.shields.io/github/last-commit/mahitech580/DataVision-Intelligence?style=flat-square&amp;label=latest%20commit&amp;labelColor=071321&amp;color=0e7490" alt="Latest commit date for DataVision Intelligence" /></p>
       <p><a href="https://github.com/mahitech580/DataVision-Intelligence">SOURCE ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>◈ <a href="https://github.com/mahitech580/averis">AVERIS — Healthcare Operations OS</a></h3>
+      <p align="center"><a href="https://github.com/mahitech580/averis"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahitech580&amp;repo=averis&amp;theme=transparent&amp;hide_border=true&amp;bg_color=050914&amp;title_color=67e8f9&amp;icon_color=a78bfa&amp;text_color=dbeafe" alt="Live GitHub project card for AVERIS — Healthcare Operations OS" /></a></p>
       <p><strong>Workflow simulation · Local-first UX</strong></p>
       <p>A browser-local operations experience connecting 18 workspaces for journeys, queues, scheduling, capacity, workforce, diagnostics, pharmacy, finance, incidents, reporting, and audit. All records are synthetic.</p>
       <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" /></p>
+      <p><img src="https://img.shields.io/github/last-commit/mahitech580/averis?style=flat-square&amp;label=latest%20commit&amp;labelColor=071321&amp;color=0e7490" alt="Latest commit date for AVERIS — Healthcare Operations OS" /></p>
       <p><a href="https://github.com/mahitech580/averis">SOURCE ↗</a> · <a href="https://mahitech580.github.io/averis/">LIVE SITE ↗</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>◈ <a href="https://github.com/mahitech580/VoxGen-AI">VoxGen AI</a></h3>
+      <p align="center"><a href="https://github.com/mahitech580/VoxGen-AI"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahitech580&amp;repo=VoxGen-AI&amp;theme=transparent&amp;hide_border=true&amp;bg_color=050914&amp;title_color=67e8f9&amp;icon_color=a78bfa&amp;text_color=dbeafe" alt="Live GitHub project card for VoxGen AI" /></a></p>
       <p><strong>Local voice assistant · LLM · Streaming</strong></p>
       <p>Combines speech recognition, local Qwen inference through Ollama, conversational context, deterministic command handling, spoken responses, SQLite history, and a streaming web console.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /></p>
+      <p><img src="https://img.shields.io/github/last-commit/mahitech580/VoxGen-AI?style=flat-square&amp;label=latest%20commit&amp;labelColor=071321&amp;color=0e7490" alt="Latest commit date for VoxGen AI" /></p>
       <p><a href="https://github.com/mahitech580/VoxGen-AI">SOURCE ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>◈ <a href="https://github.com/mahitech580/TripPilot-Travel-Planner">TripPilot — Travel Planning OS</a></h3>
+      <p align="center"><a href="https://github.com/mahitech580/TripPilot-Travel-Planner"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahitech580&amp;repo=TripPilot-Travel-Planner&amp;theme=transparent&amp;hide_border=true&amp;bg_color=050914&amp;title_color=67e8f9&amp;icon_color=a78bfa&amp;text_color=dbeafe" alt="Live GitHub project card for TripPilot — Travel Planning OS" /></a></p>
       <p><strong>Interactive web product · Travel context</strong></p>
       <p>Organizes destination discovery, itineraries, transport planning, stays, budgets, packing, and saved trips, with destination lookup, weather context, maps, and approximate road routes.</p>
       <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" /> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" /> <img src="https://img.shields.io/badge/LocalStorage-334155?style=flat-square" alt="LocalStorage" /></p>
+      <p><img src="https://img.shields.io/github/last-commit/mahitech580/TripPilot-Travel-Planner?style=flat-square&amp;label=latest%20commit&amp;labelColor=071321&amp;color=0e7490" alt="Latest commit date for TripPilot — Travel Planning OS" /></p>
       <p><a href="https://github.com/mahitech580/TripPilot-Travel-Planner">SOURCE ↗</a> · <a href="https://mahitech580.github.io/TripPilot-Travel-Planner/">LIVE DEMO ↗</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>◈ <a href="https://github.com/mahitech580/Banking-Financial-Transaction-Management-MySQL">Banking Transaction Management</a></h3>
+      <p align="center"><a href="https://github.com/mahitech580/Banking-Financial-Transaction-Management-MySQL"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahitech580&amp;repo=Banking-Financial-Transaction-Management-MySQL&amp;theme=transparent&amp;hide_border=true&amp;bg_color=050914&amp;title_color=67e8f9&amp;icon_color=a78bfa&amp;text_color=dbeafe" alt="Live GitHub project card for Banking Transaction Management" /></a></p>
       <p><strong>Relational data modelling · Financial SQL</strong></p>
       <p>Models customers, accounts, transactions, transfers, cards, loans, repayments, settlements, fraud events, and risk analysis with a focus on data integrity and analytical queries.</p>
       <p><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/SQL-334155?style=flat-square" alt="SQL" /> <img src="https://img.shields.io/badge/Database%20Design-475569?style=flat-square" alt="Database design" /></p>
+      <p><img src="https://img.shields.io/github/last-commit/mahitech580/Banking-Financial-Transaction-Management-MySQL?style=flat-square&amp;label=latest%20commit&amp;labelColor=071321&amp;color=0e7490" alt="Latest commit date for Banking Transaction Management" /></p>
       <p><a href="https://github.com/mahitech580/Banking-Financial-Transaction-Management-MySQL">SOURCE ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>◈ <a href="https://github.com/mahitech580/LastMileIQ-SQL">LastMileIQ-SQL</a></h3>
+      <p align="center"><a href="https://github.com/mahitech580/LastMileIQ-SQL"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahitech580&amp;repo=LastMileIQ-SQL&amp;theme=transparent&amp;hide_border=true&amp;bg_color=050914&amp;title_color=67e8f9&amp;icon_color=a78bfa&amp;text_color=dbeafe" alt="Live GitHub project card for LastMileIQ-SQL" /></a></p>
       <p><strong>Delivery intelligence · PostgreSQL analytics</strong></p>
       <p>Analyzes delivery lifecycle performance, courier workload, route efficiency, delays, customer patterns, failed deliveries, delivery costs, earnings, and operational risks.</p>
       <p><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/CTEs%20%26%20Windows-334155?style=flat-square" alt="CTEs and window functions" /> <img src="https://img.shields.io/badge/Analytics-475569?style=flat-square" alt="Analytics" /></p>
+      <p><img src="https://img.shields.io/github/last-commit/mahitech580/LastMileIQ-SQL?style=flat-square&amp;label=latest%20commit&amp;labelColor=071321&amp;color=0e7490" alt="Latest commit date for LastMileIQ-SQL" /></p>
       <p><a href="https://github.com/mahitech580/LastMileIQ-SQL">SOURCE ↗</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>◈ <a href="https://github.com/mahitech580/deepfake-video-detection">Deepfake Video Detection</a></h3>
+      <p align="center"><a href="https://github.com/mahitech580/deepfake-video-detection"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahitech580&amp;repo=deepfake-video-detection&amp;theme=transparent&amp;hide_border=true&amp;bg_color=050914&amp;title_color=67e8f9&amp;icon_color=a78bfa&amp;text_color=dbeafe" alt="Live GitHub project card for Deepfake Video Detection" /></a></p>
       <p><strong>Computer vision · CNN · Frequency analysis</strong></p>
       <p>Explores manipulated-video detection using frame extraction, image preprocessing, ResNet50-based classification, FFT features, multi-frame score aggregation, and a Streamlit interface.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" /></p>
+      <p><img src="https://img.shields.io/github/last-commit/mahitech580/deepfake-video-detection?style=flat-square&amp;label=latest%20commit&amp;labelColor=071321&amp;color=0e7490" alt="Latest commit date for Deepfake Video Detection" /></p>
       <p><a href="https://github.com/mahitech580/deepfake-video-detection">SOURCE ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>◈ <a href="https://github.com/mahitech580/crop-yield-predictor">Crop Yield Prediction</a></h3>
+      <p align="center"><a href="https://github.com/mahitech580/crop-yield-predictor"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahitech580&amp;repo=crop-yield-predictor&amp;theme=transparent&amp;hide_border=true&amp;bg_color=050914&amp;title_color=67e8f9&amp;icon_color=a78bfa&amp;text_color=dbeafe" alt="Live GitHub project card for Crop Yield Prediction" /></a></p>
       <p><strong>Applied ML · Agricultural data</strong></p>
       <p>Estimates crop yield from soil and environmental inputs and supports fertilizer recommendations through a Flask-based prediction interface and regression/deep-learning experiments.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" alt="Machine learning" /></p>
+      <p><img src="https://img.shields.io/github/last-commit/mahitech580/crop-yield-predictor?style=flat-square&amp;label=latest%20commit&amp;labelColor=071321&amp;color=0e7490" alt="Latest commit date for Crop Yield Prediction" /></p>
       <p><a href="https://github.com/mahitech580/crop-yield-predictor">SOURCE ↗</a> · <a href="https://crop-yield-predictor-pius.onrender.com">LIVE DEMO ↗</a></p>
     </td>
   </tr>

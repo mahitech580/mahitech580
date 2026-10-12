@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="205" viewBox="0 0 1200 205" role="img" aria-labelledby="title desc">
+<title id="title">02 About — Mahendra Sai Kondaveeti</title><desc id="desc">Animated terminal-style profile card showing CSE graduate 2026, Python, SQL, backend development, and applied AI/ML interests.</desc>
+<defs>
+  <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03090b"/><stop offset=".52" stop-color="#081522"/><stop offset="1" stop-color="#15070e"/></linearGradient>
+  <linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22c55e"/><stop offset=".18" stop-color="#22d3ee"/><stop offset=".38" stop-color="#6366f1"/><stop offset=".56" stop-color="#d946ef"/><stop offset=".76" stop-color="#ef4444"/><stop offset=".9" stop-color="#f59e0b"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+  <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4ade80"/><stop offset="1" stop-color="#14532d"/></linearGradient>
+  <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f87171"/><stop offset="1" stop-color="#7f1d1d"/></linearGradient>
+  <radialGradient id="greenFog"><stop stop-color="#22c55e" stop-opacity=".68"/><stop offset=".42" stop-color="#14532d" stop-opacity=".45"/><stop offset="1" stop-color="#052e16" stop-opacity="0"/></radialGradient>
+  <radialGradient id="redFog"><stop stop-color="#ef4444" stop-opacity=".62"/><stop offset=".43" stop-color="#7f1d1d" stop-opacity=".42"/><stop offset="1" stop-color="#450a0a" stop-opacity="0"/></radialGradient>
+  <radialGradient id="rainbowFog"><stop stop-color="#d946ef" stop-opacity=".38"/><stop offset=".35" stop-color="#22d3ee" stop-opacity=".28"/><stop offset=".68" stop-color="#22c55e" stop-opacity=".24"/><stop offset="1" stop-color="#03090b" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" stroke="#67e8f9" stroke-opacity=".07" fill="none"/></pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="21"/></filter>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+  .mono{font-family:Consolas,'Liberation Mono',monospace}
+  .ui{font-family:Inter,Segoe UI,Arial,sans-serif}
+  .float3d{transform-box:fill-box;transform-origin:center;animation:float3d 7s ease-in-out infinite}
+  .floatAlt{transform-box:fill-box;transform-origin:center;animation:floatAlt 9s ease-in-out infinite}
+  .greenSmoke{transform-box:fill-box;transform-origin:center;opacity:.23;animation:greenSmoke 12s ease-in-out infinite}
+  .redSmoke{transform-box:fill-box;transform-origin:center;opacity:.2;animation:redSmoke 14s ease-in-out infinite}
+  .rainbowSmoke{transform-box:fill-box;transform-origin:center;opacity:.16;animation:rainbowSmoke 16s ease-in-out infinite}
+  .rainbowBorder{stroke-dasharray:120 950;animation:borderFlow 12s linear infinite}
+  .glow{filter:url(#glow)}
+  @keyframes float3d{0%,100%{transform:perspective(1000px) rotateX(0deg) rotateY(-.65deg) translateY(0)}50%{transform:perspective(1000px) rotateX(1deg) rotateY(.65deg) translateY(-4px)}}
+  @keyframes floatAlt{0%,100%{transform:perspective(1000px) rotateX(.5deg) rotateY(.7deg) translateY(0)}50%{transform:perspective(1000px) rotateX(-1deg) rotateY(-.7deg) translateY(3px)}}
+  @keyframes greenSmoke{0%,100%{transform:translate(-9px,8px) scale(.94);opacity:.12}50%{transform:translate(28px,-10px) scale(1.18);opacity:.34}}
+  @keyframes redSmoke{0%,100%{transform:translate(12px,-6px) scale(1);opacity:.12}50%{transform:translate(-27px,16px) scale(1.2);opacity:.34}}
+  @keyframes rainbowSmoke{0%,100%{transform:translateX(-24px) scaleX(.9);opacity:.1}50%{transform:translateX(25px) scaleX(1.12);opacity:.28}}
+  @keyframes borderFlow{to{stroke-dashoffset:-1070;filter:hue-rotate(360deg)}}
+  @media(prefers-reduced-motion:reduce){.float3d,.floatAlt,.greenSmoke,.redSmoke,.rainbowSmoke,.rainbowBorder{animation:none}}
+</style><rect width="1200" height="205" rx="20" fill="url(#base)"/><rect width="1200" height="205" rx="20" fill="url(#grid)"/><g filter="url(#blur)"><ellipse class="greenSmoke" cx="65" cy="127.1" rx="160" ry="143.5" fill="url(#greenFog)"/><ellipse class="redSmoke" cx="1130" cy="98.39999999999999" rx="160" ry="155.8" fill="url(#redFog)"/><ellipse class="rainbowSmoke" cx="600" cy="0" rx="576" ry="151.7" fill="url(#rainbowFog)"/></g><rect x="1" y="1" width="1198" height="203" rx="19" fill="none" stroke="#174b51"/><rect x="4" y="4" width="1192" height="197" rx="17" fill="none" stroke="url(#rainbow)" stroke-width="1.5" class="rainbowBorder" opacity=".9"/><g class="float3d">
+  <rect x="22" y="20" width="1156" height="165" rx="15" fill="#071321" fill-opacity=".9" stroke="#2c5661"/>
+  <path d="M22 55H1178" stroke="#164e63"/>
+  <circle cx="43" cy="38" r="4" fill="#fb7185"/><circle cx="57" cy="38" r="4" fill="#fbbf24"/><circle cx="71" cy="38" r="4" fill="#4ade80"/>
+  <text x="90" y="42" class="mono" font-size="11" letter-spacing="1.8" fill="#86efac">WHOAMI.EXE <tspan fill="#67e8f9">/</tspan> PROFILE.SYS</text>
+  <rect x="42" y="72" width="8" height="91" rx="4" fill="url(#green)"/>
+  <text x="68" y="90" class="mono" font-size="11" letter-spacing="1.4" fill="#86efac">$ whoami</text>
+  <text x="68" y="119" class="ui" font-size="27" font-weight="750" fill="#f0fdf4">Mahendra Sai Kondaveeti</text>
+  <text x="68" y="143" class="mono" font-size="13" fill="#a7f3d0">COMPUTER SCIENCE &amp; ENGINEERING GRADUATE · 2026</text>
+  <text x="68" y="164" class="mono" font-size="12" fill="#dbeafe">$ focus --current   <tspan fill="#86efac">Python</tspan><tspan fill="#7892b6"> / </tspan><tspan fill="#fca5a5">SQL</tspan><tspan fill="#7892b6"> / </tspan><tspan fill="#67e8f9">Backend</tspan><tspan fill="#7892b6"> / </tspan><tspan fill="#c4b5fd">Applied AI/ML</tspan></text>
+  <rect x="871" y="76" width="275" height="81" rx="11" fill="#062218" stroke="#22c55e" stroke-opacity=".8"/>
+  <rect x="878" y="83" width="261" height="67" rx="8" fill="none" stroke="#86efac" stroke-opacity=".25"/>
+  <circle cx="896" cy="101" r="4" fill="#4ade80"/><text x="909" y="105" class="mono" font-size="10" letter-spacing="1.1" fill="#86efac">ENGINEERING PRINCIPLE</text>
+  <text x="895" y="127" class="ui" font-size="13" font-weight="650" fill="#f0fdf4">Build useful software.</text>
+  <text x="895" y="143" class="ui" font-size="12" fill="#bbf7d0">Keep it testable and maintainable.</text>
+  <path d="M1134 57L1162 57L1162 85" fill="none" stroke="url(#rainbow)" stroke-width="2" class="glow"/>
+</g></svg>

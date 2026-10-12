@@ -14,12 +14,41 @@
 </p>
 
 <p align="center">
-  <a href="#about">ABOUT</a> · <a href="#engineering-stack">TECH STACK</a> · <a href="#projects">PROJECTS</a> · <a href="#ai-ml-practice">AI / ML</a> · <a href="#contributions">CONTRIBUTIONS</a> · <a href="#connect">CONNECT</a>
+  <a href="#github-snapshot">SNAPSHOT</a> · <a href="#contribution-calendar">CONTRIBUTION GRID</a> · <a href="#about">ABOUT</a> · <a href="#engineering-focus">FOCUS</a> · <a href="#engineering-stack">TECH STACK</a> · <a href="#ai-ml-practice">AI / ML</a> · <a href="#projects">PROJECTS</a> · <a href="#contributions">ACTIVITY</a> · <a href="#connect">CONNECT</a>
 </p>
 
 ---
 
-## <a id="about"></a>01 // ABOUT
+## <a id="github-snapshot"></a>01 // LIVE GITHUB SNAPSHOT
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahitech580&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=transparent&amp;bg_color=050914&amp;title_color=67e8f9&amp;icon_color=a78bfa&amp;text_color=dbeafe" alt="Live GitHub account statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahitech580&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent&amp;bg_color=050914&amp;title_color=67e8f9&amp;text_color=dbeafe" alt="Language distribution across public repositories" />
+</p>
+
+<p align="center"><sub>Statistics and profile views are rendered dynamically and may be cached by their providers.</sub></p>
+
+
+### <a id="contribution-calendar"></a>Contribution Calendar
+
+<p align="center">
+  <img width="68%" src="https://streak-stats.demolab.com?user=mahitech580&amp;theme=transparent&amp;hide_border=true&amp;background=050914&amp;ring=22d3ee&amp;fire=a78bfa&amp;currStreakLabel=67e8f9&amp;sideLabels=8ba4c7&amp;currStreakNum=eaf7ff&amp;sideNums=eaf7ff&amp;dates=8ba4c7" alt="Current and longest GitHub contribution streaks calculated by an external stats service" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mahitech580">
+    <img src="https://ghchart.rshah.org/67e8f9/mahitech580" alt="GitHub contribution calendar generated from public activity for mahitech580" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mahitech580"><img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-071321?style=for-the-badge&amp;logo=github&amp;logoColor=67e8f9" alt="GitHub repositories" /></a>
+  <a href="https://www.linkedin.com/in/mahendra-sai-kondaveeti-93438b279/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-071321?style=for-the-badge&amp;logo=linkedin&amp;logoColor=67e8f9" alt="LinkedIn profile" /></a>
+</p>
+
+---
+
+## <a id="about"></a>02 // ABOUT
 
 ```text
 $ whoami
@@ -40,18 +69,36 @@ I’m open to **entry-level software development opportunities**, particularly P
 
 ---
 
-## <a id="github-snapshot"></a>02 // GITHUB SNAPSHOT
+## <a id="engineering-focus"></a>03 // ENGINEERING FOCUS
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahitech580&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=transparent&amp;bg_color=050914&amp;title_color=67e8f9&amp;icon_color=a78bfa&amp;text_color=dbeafe" alt="Live GitHub account statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahitech580&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent&amp;bg_color=050914&amp;title_color=67e8f9&amp;text_color=dbeafe" alt="Language distribution across public repositories" />
-</p>
-
-<p align="center"><sub>Statistics and profile views are rendered dynamically and may be cached by their providers.</sub></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>SOFTWARE ENGINEERING</h3>
+      <ul>
+        <li>Python fundamentals and problem solving</li>
+        <li>Data structures and algorithms</li>
+        <li>SQL and relational database design</li>
+        <li>Backend services and REST API workflows</li>
+        <li>Maintainable code and practical testing</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>DATA & APPLIED AI</h3>
+      <ul>
+        <li>Data analysis and data-quality checks</li>
+        <li>Machine-learning workflows and evaluation</li>
+        <li>Computer vision and video preprocessing</li>
+        <li>Local LLM and voice-assistant experiments</li>
+        <li>Explainable, responsible application design</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## <a id="engineering-stack"></a>03 // ENGINEERING STACK
+## <a id="engineering-stack"></a>04 // TECH STACK
 
 ### Languages
 <p align="left">
@@ -82,9 +129,9 @@ I’m open to **entry-level software development opportunities**, particularly P
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
 </p>
 
-### Developer Tools
+### DevOps & Developer Tooling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark" alt="Git, GitHub and Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&amp;theme=dark" alt="Git, GitHub, GitHub Actions and Visual Studio Code" />
 </p>
 
 ### Engineering Ecosystem
@@ -97,11 +144,31 @@ I’m open to **entry-level software development opportunities**, particularly P
   <img src="https://img.shields.io/badge/COMPUTER%20VISION-071321?style=flat-square&amp;labelColor=111827&amp;color=7c3aed" alt="Computer vision" />
   <img src="https://img.shields.io/badge/LOCAL%20LLM%20EXPERIMENTS-071321?style=flat-square&amp;labelColor=111827&amp;color=7c3aed" alt="Local LLM experiments" />
   <img src="https://img.shields.io/badge/TESTING%20%26%20QUALITY-071321?style=flat-square&amp;labelColor=111827&amp;color=0891b2" alt="Testing and quality" />
+  <img src="https://img.shields.io/badge/AGENT%20ORCHESTRATION-CYRUS-071321?style=flat-square&amp;labelColor=111827&amp;color=7c3aed" alt="Agent orchestration project" />
+  <img src="https://img.shields.io/badge/RAG-LEARNING%20FOCUS-071321?style=flat-square&amp;labelColor=111827&amp;color=7c3aed" alt="RAG is a learning focus" />
+  <img src="https://img.shields.io/badge/LLM%20APPS-VOXGEN-071321?style=flat-square&amp;labelColor=111827&amp;color=0e7490" alt="Local LLM application project" />
 </p>
 
 ---
 
-## <a id="projects"></a>04 // PROJECTS
+## <a id="ai-ml-practice"></a>05 // AI / ML EXPERTISE
+
+<p><em>Project-backed work is separated from learning topics. These labels describe current repository evidence, not certifications or claimed proficiency levels.</em></p>
+
+| Domain | Current evidence | Practical focus |
+|---|---|---|
+| Data intelligence & AutoML | Project-backed · DataVision | Profiling, data-quality indicators, model comparison, persisted experiments, and predictions |
+| Computer vision | Project-backed · Deepfake Detection | Frame sampling, preprocessing, ResNet50 classification, FFT features, and score aggregation |
+| Local LLM applications | Project-backed · VoxGen AI | Ollama/Qwen inference, voice input/output, conversation context, command routing, and streaming UI |
+| Agent orchestration | Project-backed · CYRUS | Seven-stage execution flow, structured traces, streamed progress, cancellation, and supervised approval |
+| SQL analytics | Project-backed · Banking / LastMileIQ | Relational schema design, data integrity, joins, CTEs, window functions, and business analysis |
+| Backend & realtime workflows | Project-backed · DataVision / VoxGen | FastAPI endpoints, background tasks, Server-Sent Events, and persistence |
+| Retrieval-augmented generation (RAG) | Learning focus | Retrieval, chunking, embeddings, and grounded response design |
+| Agent protocols & evaluation | Learning focus | Tool boundaries, structured outputs, test cases, and evaluation basics |
+
+---
+
+## <a id="projects"></a>06 // SELECTED PROJECTS
 
 <p align="center"><em>Application, AI/ML, and data projects. Repository cards and metadata badges are live; descriptions reflect the linked project documentation.</em></p>
 
@@ -210,43 +277,16 @@ I’m open to **entry-level software development opportunities**, particularly P
 
 ---
 
-## <a id="ai-ml-practice"></a>05 // AI / ML ENGINEERING PRACTICE
+## <a id="contributions"></a>07 // CONTRIBUTION ACTIVITY
 
-<p><em>Project-backed work is separated from learning topics. These labels describe current repository evidence, not certifications or claimed proficiency levels.</em></p>
-
-| Domain | Current evidence | Practical focus |
-|---|---|---|
-| Data intelligence & AutoML | Project-backed · DataVision | Profiling, data-quality indicators, model comparison, persisted experiments, and predictions |
-| Computer vision | Project-backed · Deepfake Detection | Frame sampling, preprocessing, ResNet50 classification, FFT features, and score aggregation |
-| Local LLM applications | Project-backed · VoxGen AI | Ollama/Qwen inference, voice input/output, conversation context, command routing, and streaming UI |
-| Agent orchestration | Project-backed · CYRUS | Seven-stage execution flow, structured traces, streamed progress, cancellation, and supervised approval |
-| SQL analytics | Project-backed · Banking / LastMileIQ | Relational schema design, data integrity, joins, CTEs, window functions, and business analysis |
-| Backend & realtime workflows | Project-backed · DataVision / VoxGen | FastAPI endpoints, background tasks, Server-Sent Events, and persistence |
-| Retrieval-augmented generation (RAG) | Learning focus | Retrieval, chunking, embeddings, and grounded response design |
-| Agent protocols & evaluation | Learning focus | Tool boundaries, structured outputs, test cases, and evaluation basics |
-
----
-
-## <a id="contributions"></a>06 // CONTRIBUTION ACTIVITY
-
-<p align="center"><em>Public GitHub activity shown through dynamic visualizations. Third-party providers may cache results or experience temporary outages.</em></p>
-
-### Contribution Calendar
-<p align="center">
-  <a href="https://github.com/mahitech580">
-    <img src="https://ghchart.rshah.org/67e8f9/mahitech580" alt="Contribution calendar generated from GitHub activity" width="100%" />
-  </a>
-</p>
+<p align="center"><em>Activity visualizations are based on GitHub's public contribution data. Providers may cache responses or have occasional outages.</em></p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahitech580&amp;bg_color=050914&amp;color=67e8f9&amp;line=22d3ee&amp;point=a78bfa&amp;area_color=0e7490&amp;area=true&amp;hide_border=true&amp;custom_title=PUBLIC%20CONTRIBUTION%20ACTIVITY" alt="Public GitHub contribution activity graph" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=mahitech580&amp;theme=transparent&amp;hide_border=true&amp;background=050914&amp;ring=22d3ee&amp;fire=a78bfa&amp;currStreakLabel=67e8f9&amp;sideLabels=8ba4c7&amp;currStreakNum=eaf7ff&amp;sideNums=eaf7ff&amp;dates=8ba4c7" alt="Contribution streak computed by an external statistics service" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahitech580&amp;bg_color=050914&amp;color=67e8f9&amp;line=22d3ee&amp;point=a78bfa&amp;area_color=0e7490&amp;area=true&amp;hide_border=true&amp;custom_title=PUBLIC%20CONTRIBUTION%20ACTIVITY" alt="Public GitHub contribution activity graph for mahitech580" />
 </p>
 
 ### Animated Contribution Snake
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahitech580/mahitech580/gh-pages/github-contribution-grid-snake-dark.svg" />
@@ -255,39 +295,9 @@ I’m open to **entry-level software development opportunities**, particularly P
   </picture>
 </p>
 
-<p align="center"><sub>The contribution workflow generates light and dark snake assets from GitHub’s contribution calendar. Contribution totals and streaks are not hand-entered.</sub></p>
+<p align="center"><sub>The snake is generated from GitHub's contribution calendar by the repository's scheduled workflow. No hand-entered contribution totals or streaks are shown.</sub></p>
 
 ---
-
-## 07 // ENGINEERING FOCUS
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>SOFTWARE ENGINEERING</h3>
-      <ul>
-        <li>Python fundamentals and problem solving</li>
-        <li>Data structures and algorithms</li>
-        <li>SQL and relational database design</li>
-        <li>Backend services and REST API workflows</li>
-        <li>Maintainable code and practical testing</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>DATA & APPLIED AI</h3>
-      <ul>
-        <li>Data analysis and data-quality checks</li>
-        <li>Machine-learning workflows and evaluation</li>
-        <li>Computer vision and video preprocessing</li>
-        <li>Local LLM and voice-assistant experiments</li>
-        <li>Explainable, responsible application design</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ## <a id="connect"></a>08 // CONNECT
 
 <p align="center">

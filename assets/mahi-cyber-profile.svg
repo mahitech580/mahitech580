@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="590" viewBox="0 0 1200 590" role="img" aria-labelledby="title desc">
+  <title id="title">Mahendra Sai Kondaveeti — Neon Developer Profile</title>
+  <desc id="desc">A dark cyberpunk developer profile card with a neon portrait illustration, technical system information, skills and contact hints.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050914"/><stop offset=".56" stop-color="#071126"/><stop offset="1" stop-color="#100725"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#79fff5"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#4777ff"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d1a5ff"/><stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#0ea5e9" stop-opacity=".24"/><stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#22d3ee" stroke-opacity=".09" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.2" fill="#67e8f9" fill-opacity=".25"/>
+    </pattern>
+    <pattern id="pixels" width="13" height="13" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.4" fill="#a5f3fc" fill-opacity=".5"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="15"/>
+    </filter>
+    <clipPath id="portraitClip"><rect x="54" y="144" width="418" height="330" rx="14"/></clipPath>
+  </defs>
+  <style>
+    .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}
+    .ui{font-family:Inter,Segoe UI,Arial,sans-serif}
+    .muted{fill:#8ba4c7}
+    .white{fill:#eaf7ff}
+    .cyan{fill:#67e8f9}
+    .purple{fill:#c4b5fd}
+    .tiny{font-size:12px;letter-spacing:1.7px}
+    .label{font-size:12px;letter-spacing:1.4px;fill:#7892b6}
+    .value{font-size:16px;fill:#e5f7ff}
+    .glowline{stroke-dasharray:170 760;animation:dash 6s linear infinite}
+    .pulse{animation:pulse 3.4s ease-in-out infinite;transform-origin:center}
+    .float{animation:float 5s ease-in-out infinite}
+    .scan{animation:scan 7s linear infinite}
+    .blink{animation:blink 1s steps(2,start) infinite}
+    @keyframes dash{to{stroke-dashoffset:-930}}
+    @keyframes pulse{0%,100%{opacity:.58}50%{opacity:1}}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+    @keyframes scan{0%{transform:translateY(-170px)}100%{transform:translateY(360px)}}
+    @keyframes blink{to{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.glowline,.pulse,.float,.scan,.blink{animation:none}}
+  </style>
+
+  <rect width="1200" height="590" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="590" rx="24" fill="url(#grid)"/>
+  <ellipse cx="260" cy="300" rx="330" ry="290" fill="url(#halo)"/>
+  <ellipse cx="990" cy="180" rx="350" ry="280" fill="#7c3aed" opacity=".09" filter="url(#softGlow)"/>
+  <rect x="13" y="13" width="1174" height="564" rx="20" fill="none" stroke="#164e63" stroke-width="1.5"/>
+  <rect x="17" y="17" width="1166" height="556" rx="17" fill="none" stroke="url(#cyan)" stroke-opacity=".85" stroke-width="1.2" filter="url(#glow)"/>
+  <path d="M34 78H1166" stroke="#38bdf8" stroke-opacity=".45"/>
+  <path d="M34 78H200" stroke="url(#cyan)" stroke-width="2" filter="url(#glow)"/>
+
+  <!-- Window chrome -->
+  <circle cx="43" cy="47" r="5" fill="#fb7185"/><circle cx="61" cy="47" r="5" fill="#fbbf24"/><circle cx="79" cy="47" r="5" fill="#34d399"/>
+  <text x="101" y="51" class="mono tiny muted">MAHI.DEV // PROFILE.CONSOLE</text>
+  <text x="1155" y="51" text-anchor="end" class="mono tiny cyan">BUILD 2026.10</text>
+  <rect x="1014" y="31" width="130" height="25" rx="12.5" fill="#052e2b" stroke="#10b981" stroke-opacity=".75"/>
+  <circle cx="1030" cy="43.5" r="4" fill="#34d399" class="pulse"/>
+  <text x="1041" y="47" class="mono" font-size="10" fill="#a7f3d0">OPEN TO WORK</text>
+
+  <!-- Left identity / portrait area -->
+  <rect x="37" y="98" width="465" height="420" rx="17" fill="#071321" stroke="#1c4561"/>
+  <rect x="37" y="98" width="465" height="420" rx="17" fill="none" stroke="#22d3ee" stroke-opacity=".24"/>
+  <text x="57" y="124" class="mono tiny cyan">VISUAL.IDENTITY</text>
+  <text x="480" y="124" text-anchor="end" class="mono tiny muted">NODE_001</text>
+  <g clip-path="url(#portraitClip)">
+    <rect x="54" y="144" width="418" height="330" rx="14" fill="#071b38"/>
+    <rect x="54" y="144" width="418" height="330" fill="url(#grid)" opacity=".9"/>
+    <circle cx="266" cy="285" r="142" fill="#0b3150" opacity=".55"/>
+    <circle cx="266" cy="285" r="120" fill="none" stroke="#22d3ee" stroke-opacity=".24" stroke-dasharray="4 9"/>
+    <circle cx="266" cy="285" r="99" fill="none" stroke="#818cf8" stroke-opacity=".42" stroke-dasharray="2 7"/>
+    <path d="M90 429 Q120 345 194 341 L225 323 L306 323 L338 342 Q415 353 441 429 L441 474 L90 474Z" fill="#0b2f50" stroke="#38bdf8" stroke-opacity=".8" stroke-width="2"/>
+    <path d="M174 232 Q175 173 238 174 Q306 174 320 228 L311 293 Q300 326 271 340 L245 340 Q205 321 190 286Z" fill="#0d2742" stroke="#67e8f9" stroke-width="2.2"/>
+    <path d="M175 234 Q160 202 186 180 Q214 154 258 169 Q297 177 311 209 L307 235 Q288 207 264 203 Q225 203 199 229 L194 277 L181 267Z" fill="#142b4d" stroke="#a5f3fc" stroke-opacity=".7" stroke-width="1.5"/>
+    <path d="M288 245 L309 258 L292 267" fill="none" stroke="#67e8f9" stroke-width="2" stroke-linecap="round"/>
+    <path d="M225 267 Q239 275 251 267" fill="none" stroke="#67e8f9" stroke-width="2" stroke-linecap="round"/>
+    <path d="M224 294 Q246 310 272 292" fill="none" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M207 333 L214 369 L267 408 L306 369 L302 332" fill="#102944" stroke="#22d3ee" stroke-opacity=".8"/>
+    <path d="M220 350 L265 395 L291 350" fill="none" stroke="#67e8f9" stroke-opacity=".8" stroke-width="2"/>
+    <path d="M196 344 L162 358 L137 425 M314 343 L355 360 L390 425" fill="none" stroke="#22d3ee" stroke-opacity=".8" stroke-width="2"/>
+    <rect x="54" y="144" width="418" height="330" fill="url(#pixels)" opacity=".35"/>
+    <path d="M54 185H472 M54 263H472 M54 341H472 M54 419H472" stroke="#22d3ee" stroke-opacity=".08"/>
+    <path d="M54 174H472" stroke="#67e8f9" stroke-opacity=".45" stroke-width="1.5" class="scan"/>
+    <g class="float">
+      <rect x="73" y="166" width="84" height="26" rx="5" fill="#06101f" stroke="#22d3ee" stroke-opacity=".75"/>
+      <text x="115" y="183" text-anchor="middle" class="mono" font-size="10" fill="#a5f3fc">PYTHON://</text>
+      <rect x="349" y="380" width="101" height="26" rx="5" fill="#100a2d" stroke="#a78bfa" stroke-opacity=".8"/>
+      <text x="399" y="397" text-anchor="middle" class="mono" font-size="10" fill="#ddd6fe">AI.MODEL</text>
+    </g>
+    <g fill="#67e8f9" filter="url(#glow)">
+      <circle cx="115" cy="298" r="2.5"/><circle cx="142" cy="321" r="2"/><circle cx="373" cy="212" r="2.5"/>
+      <circle cx="394" cy="237" r="2"/><circle cx="358" cy="276" r="2"/><circle cx="122" cy="390" r="2"/>
+    </g>
+    <path d="M54 453H472" stroke="#38bdf8" stroke-opacity=".5"/>
+    <text x="70" y="464" class="mono" font-size="9" fill="#7dd3fc">FIG. 01 / HUMAN + MACHINE COLLABORATION</text>
+  </g>
+  <text x="57" y="496" class="ui" font-size="20" font-weight="700" fill="#ecfeff">Mahendra Sai Kondaveeti</text>
+  <text x="480" y="496" text-anchor="end" class="mono" font-size="11" fill="#a5f3fc">CS.GRAD // 2026</text>
+
+  <!-- Right-side system information -->
+  <rect x="525" y="98" width="638" height="420" rx="17" fill="#080e1f" fill-opacity=".92" stroke="#253c6b"/>
+  <text x="550" y="125" class="mono tiny purple">SYSTEM.INFO <tspan fill="#536b91">/</tspan> mahi_profile.json</text>
+  <text x="1137" y="125" text-anchor="end" class="mono" font-size="11" fill="#34d399">● ALL SYSTEMS NOMINAL</text>
+  <path d="M550 142H1138" stroke="#312e81" stroke-width="1"/>
+  <text x="550" y="169" class="mono tiny muted">SUBJECT</text>
+  <text x="720" y="169" class="mono value">MAHENDRA SAI KONDAVEETI</text>
+  <path d="M550 182H1138" stroke="#1e3a5f" stroke-opacity=".75"/>
+  <text x="550" y="207" class="mono tiny muted">ROLE</text>
+  <text x="720" y="207" class="mono value">ASPIRING SOFTWARE DEVELOPER</text>
+  <path d="M550 220H1138" stroke="#1e3a5f" stroke-opacity=".75"/>
+  <text x="550" y="245" class="mono tiny muted">CORE.LANG</text>
+  <text x="720" y="245" class="mono value">PYTHON / SQL / JAVASCRIPT</text>
+  <path d="M550 258H1138" stroke="#1e3a5f" stroke-opacity=".75"/>
+  <text x="550" y="283" class="mono tiny muted">BACKEND</text>
+  <text x="720" y="283" class="mono value">FASTAPI / FLASK / REST APIs</text>
+  <path d="M550 296H1138" stroke="#1e3a5f" stroke-opacity=".75"/>
+  <text x="550" y="321" class="mono tiny muted">DATA.STACK</text>
+  <text x="720" y="321" class="mono value">PANDAS / NUMPY / SCIKIT-LEARN</text>
+  <path d="M550 334H1138" stroke="#1e3a5f" stroke-opacity=".75"/>
+  <text x="550" y="359" class="mono tiny muted">DATABASE</text>
+  <text x="720" y="359" class="mono value">MYSQL / POSTGRESQL / SQLITE</text>
+  <path d="M550 372H1138" stroke="#1e3a5f" stroke-opacity=".75"/>
+  <text x="550" y="397" class="mono tiny muted">FOCUS</text>
+  <text x="720" y="397" class="mono value">BACKEND · DATA · AI / ML</text>
+  <path d="M550 410H1138" stroke="#1e3a5f" stroke-opacity=".75"/>
+
+  <!-- Compact meters -->
+  <text x="550" y="438" class="mono tiny cyan">TECH SIGNALS</text>
+  <text x="550" y="460" class="mono" font-size="10" fill="#8ba4c7">PY</text>
+  <rect x="575" y="451" width="115" height="5" rx="2.5" fill="#12233d"/><rect x="575" y="451" width="83" height="5" rx="2.5" fill="url(#cyan)"/>
+  <text x="705" y="460" class="mono" font-size="10" fill="#8ba4c7">SQL</text>
+  <rect x="735" y="451" width="115" height="5" rx="2.5" fill="#12233d"/><rect x="735" y="451" width="75" height="5" rx="2.5" fill="url(#purple)"/>
+  <text x="865" y="460" class="mono" font-size="10" fill="#8ba4c7">AI/ML</text>
+  <rect x="908" y="451" width="115" height="5" rx="2.5" fill="#12233d"/><rect x="908" y="451" width="65" height="5" rx="2.5" fill="url(#cyan)"/>
+  <text x="1038" y="460" class="mono" font-size="10" fill="#8ba4c7">WEB</text>
+  <rect x="1070" y="451" width="65" height="5" rx="2.5" fill="#12233d"/><rect x="1070" y="451" width="47" height="5" rx="2.5" fill="url(#purple)"/>
+
+  <rect x="550" y="478" width="588" height="25" rx="6" fill="#071d2b" stroke="#155e75" stroke-opacity=".8"/>
+  <text x="563" y="494" class="mono" font-size="11" fill="#67e8f9">&gt; BUILD. LEARN. SOLVE. REPEAT.</text>
+  <text x="1123" y="494" text-anchor="end" class="mono" font-size="12" fill="#c4b5fd" class="blink">_</text>
+
+  <!-- Footer -->
+  <text x="39" y="550" class="mono tiny muted">GITHUB.COM/MAHITECH580</text>
+  <text x="1160" y="550" text-anchor="end" class="mono tiny muted">ENGINEERED WITH CURIOSITY <tspan fill="#22d3ee">◆</tspan></text>
+  <path d="M38 562H1162" stroke="#164e63" stroke-opacity=".8"/>
+</svg>

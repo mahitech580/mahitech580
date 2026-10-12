@@ -186,6 +186,26 @@ I’m open to **entry-level software development opportunities**, particularly P
     <p><a href="https://github.com/mahitech580/crop-yield-predictor">SOURCE ↗</a> · <a href="https://crop-yield-predictor-pius.onrender.com">LIVE DEMO ↗</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+    <h3>09 / <a href="https://github.com/mahitech580/CYRUS-Autonomous-Agentic-Intelligence-System">CYRUS — Agentic Intelligence System</a></h3>
+    <p><a href="https://github.com/mahitech580/CYRUS-Autonomous-Agentic-Intelligence-System"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahitech580&amp;repo=CYRUS-Autonomous-Agentic-Intelligence-System&amp;theme=transparent&amp;hide_border=true&amp;bg_color=050914&amp;title_color=67e8f9&amp;icon_color=a78bfa&amp;text_color=dbeafe" alt="Live GitHub repository card for CYRUS — Agentic Intelligence System" /></a></p>
+    <p><strong>AGENT ORCHESTRATION / REALTIME EXECUTION</strong></p>
+    <p>A visual engineering operations console built around a seven-stage agent flow: orchestrator, planner, researcher, coder, tester, reviewer, and release. Includes structured execution traces, resumable event streams, task cancellation, supervised approval, health/readiness endpoints, and deterministic offline-safe demo mode.</p>
+    <p><strong>Stack:</strong> Python · Flask · REST APIs · Server-Sent Events · JavaScript</p>
+    <p><img src="https://img.shields.io/github/stars/mahitech580/CYRUS-Autonomous-Agentic-Intelligence-System?style=flat-square&amp;label=stars&amp;labelColor=071321&amp;color=0e7490" alt="CYRUS — Agentic Intelligence System repository stars" /> <img src="https://img.shields.io/github/last-commit/mahitech580/CYRUS-Autonomous-Agentic-Intelligence-System?style=flat-square&amp;label=last%20commit&amp;labelColor=071321&amp;color=0e7490" alt="CYRUS — Agentic Intelligence System latest commit" /></p>
+    <p><a href="https://github.com/mahitech580/CYRUS-Autonomous-Agentic-Intelligence-System">SOURCE ↗</a> · <a href="https://mahitech580.github.io/CYRUS-Autonomous-Agentic-Intelligence-System/">LIVE DEMO ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+    <h3>10 / <a href="https://github.com/mahitech580/NodeAI-Studio">NodeAI Studio</a></h3>
+    <p><a href="https://github.com/mahitech580/NodeAI-Studio"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahitech580&amp;repo=NodeAI-Studio&amp;theme=transparent&amp;hide_border=true&amp;bg_color=050914&amp;title_color=67e8f9&amp;icon_color=a78bfa&amp;text_color=dbeafe" alt="Live GitHub repository card for NodeAI Studio" /></a></p>
+    <p><strong>AI DEVELOPER ASSISTANT / REST WORKFLOWS</strong></p>
+    <p>A browser-based developer assistant with AI chat, code generation, debugging, and SQL assistance behind a Node.js and Express API. Demo mode supports the interface without an AI API key; full model responses require provider configuration.</p>
+    <p><strong>Stack:</strong> Node.js · Express · JavaScript · REST APIs · Generative AI</p>
+    <p><img src="https://img.shields.io/github/stars/mahitech580/NodeAI-Studio?style=flat-square&amp;label=stars&amp;labelColor=071321&amp;color=0e7490" alt="NodeAI Studio repository stars" /> <img src="https://img.shields.io/github/last-commit/mahitech580/NodeAI-Studio?style=flat-square&amp;label=last%20commit&amp;labelColor=071321&amp;color=0e7490" alt="NodeAI Studio latest commit" /></p>
+    <p><a href="https://github.com/mahitech580/NodeAI-Studio">SOURCE ↗</a></p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -199,6 +219,7 @@ I’m open to **entry-level software development opportunities**, particularly P
 | Data intelligence & AutoML | Project-backed · DataVision | Profiling, data-quality indicators, model comparison, persisted experiments, and predictions |
 | Computer vision | Project-backed · Deepfake Detection | Frame sampling, preprocessing, ResNet50 classification, FFT features, and score aggregation |
 | Local LLM applications | Project-backed · VoxGen AI | Ollama/Qwen inference, voice input/output, conversation context, command routing, and streaming UI |
+| Agent orchestration | Project-backed · CYRUS | Seven-stage execution flow, structured traces, streamed progress, cancellation, and supervised approval |
 | SQL analytics | Project-backed · Banking / LastMileIQ | Relational schema design, data integrity, joins, CTEs, window functions, and business analysis |
 | Backend & realtime workflows | Project-backed · DataVision / VoxGen | FastAPI endpoints, background tasks, Server-Sent Events, and persistence |
 | Retrieval-augmented generation (RAG) | Learning focus | Retrieval, chunking, embeddings, and grounded response design |

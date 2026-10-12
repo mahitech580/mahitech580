@@ -156,22 +156,31 @@ I’m open to **entry-level software development opportunities** and interested 
 
 ## <a id="contribution-activity"></a>04 // Contribution Activity
 
-<p align="center"><em>Live visualizations generated from public GitHub activity. GitHub and third-party cards may cache results, so figures can update with a delay.</em></p>
+<p align="center"><em>Public activity visualized from GitHub. Third-party contribution cards may be cached briefly; private activity follows your GitHub visibility settings.</em></p>
+
+### Contribution Calendar
 
 <p align="center">
-  <img height="165" width="49%" src="https://github-readme-stats.vercel.app/api?username=mahitech580&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=050914&title_color=67e8f9&icon_color=a78bfa&text_color=dbeafe" alt="GitHub statistics for mahitech580" />
-  <img height="165" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahitech580&layout=compact&langs_count=8&hide_border=true&theme=transparent&bg_color=050914&title_color=67e8f9&text_color=dbeafe" alt="Most-used public repository languages for mahitech580" />
+  <a href="https://github.com/mahitech580">
+    <img src="https://ghchart.rshah.org/67e8f9/mahitech580" alt="GitHub contribution calendar for mahitech580, based on real contribution activity" width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=mahitech580&theme=transparent&hide_border=true&background=050914&ring=22d3ee&fire=a78bfa&currStreakLabel=67e8f9&sideLabels=8ba4c7&currStreakNum=eaf7ff&sideNums=eaf7ff&dates=8ba4c7" alt="GitHub contribution streak calculated by an external stats service" />
+  <img height="165" width="49%" src="https://github-readme-stats.vercel.app/api?username=mahitech580&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=transparent&amp;bg_color=050914&amp;title_color=67e8f9&amp;icon_color=a78bfa&amp;text_color=dbeafe" alt="GitHub statistics for mahitech580" />
+  <img height="165" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahitech580&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent&amp;bg_color=050914&amp;title_color=67e8f9&amp;text_color=dbeafe" alt="Most-used public repository languages for mahitech580" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahitech580&bg_color=050914&color=67e8f9&line=22d3ee&point=a78bfa&area_color=0e7490&area=true&hide_border=true&custom_title=PUBLIC%20CONTRIBUTION%20ACTIVITY" alt="Public GitHub contribution activity graph" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=mahitech580&amp;theme=transparent&amp;hide_border=true&amp;background=050914&amp;ring=22d3ee&amp;fire=a78bfa&amp;currStreakLabel=67e8f9&amp;sideLabels=8ba4c7&amp;currStreakNum=eaf7ff&amp;sideNums=eaf7ff&amp;dates=8ba4c7" alt="GitHub contribution streak calculated by an external stats service" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahitech580&amp;bg_color=050914&amp;color=67e8f9&amp;line=22d3ee&amp;point=a78bfa&amp;area_color=0e7490&amp;area=true&amp;hide_border=true&amp;custom_title=PUBLIC%20CONTRIBUTION%20ACTIVITY" alt="Public GitHub contribution activity graph" />
 </p>
 
 ### Contribution Snake
+
 
 <p align="center">
   <picture>

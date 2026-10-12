@@ -35,7 +35,7 @@
   <rect x="29" y="26" width="554" height="282" rx="14" fill="none" stroke="#86efac" stroke-opacity=".2"/>
   <path d="M42 78H570" stroke="#166534"/>
   <rect x="42" y="37" width="6" height="27" rx="3" fill="#4ade80"/>
-  <text x="62" y="48" class="mono" font-size="10" letter-spacing="1.7" fill="#86efac">TRACK 01 <tspan fill="#365b4b">/</tspan> ENGINEERING</text>
+  <text x="62" y="48" class="mono" font-size="10" letter-spacing="1.7" fill="#86efac">03 // ENGINEERING FOCUS</text>
   <text x="62" y="69" class="ui" font-size="22" font-weight="750" fill="#f0fdf4">Software Engineering</text>
   <g class="ui" font-size="15" fill="#dcfce7">
     <circle cx="53" cy="106" r="3" fill="#4ade80"/><text x="68" y="111">Python fundamentals &amp; problem solving</text>

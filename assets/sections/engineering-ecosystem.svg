@@ -33,7 +33,7 @@
 </style><rect width="1200" height="132" rx="20" fill="url(#base)"/><rect width="1200" height="132" rx="20" fill="url(#grid)"/><g filter="url(#blur)"><ellipse class="greenSmoke" cx="65" cy="81.84" rx="160" ry="92.39999999999999" fill="url(#greenFog)"/><ellipse class="redSmoke" cx="1130" cy="63.36" rx="160" ry="100.32000000000001" fill="url(#redFog)"/><ellipse class="rainbowSmoke" cx="600" cy="0" rx="576" ry="97.67999999999999" fill="url(#rainbowFog)"/></g><rect x="1" y="1" width="1198" height="130" rx="19" fill="none" stroke="#174b51"/><rect x="4" y="4" width="1192" height="124" rx="17" fill="none" stroke="url(#rainbow)" stroke-width="1.5" class="rainbowBorder" opacity=".9"/><g class="float3d">
   <rect x="18" y="17" width="1164" height="98" rx="16" fill="#071321" fill-opacity=".93" stroke="#36515b"/>
   <path d="M40 91H1159" stroke="#164e63"/>
-  <text x="44" y="43" class="mono" font-size="10" letter-spacing="2.1" fill="#86efac">STACK.MAP <tspan fill="#7892b6">/</tspan> CAPABILITIES</text>
+  <text x="44" y="43" class="mono" font-size="10" letter-spacing="2.1" fill="#86efac">04 // STACK.MAP <tspan fill="#7892b6">/</tspan> ECOSYSTEM</text>
   <text x="42" y="75" class="ui" font-size="29" font-weight="800" fill="#f0fdf4">ENGINEERING ECOSYSTEM</text>
   <text x="45" y="101" class="mono" font-size="10" letter-spacing="1.4" fill="#9cc8b2">SOFTWARE · AUTOMATION · DATA · APPLIED INTELLIGENCE</text>
   <g class="mono" font-size="10" font-weight="bold" text-anchor="middle">

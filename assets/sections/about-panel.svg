@@ -34,7 +34,7 @@
   <rect x="22" y="20" width="1156" height="165" rx="15" fill="#071321" fill-opacity=".9" stroke="#2c5661"/>
   <path d="M22 55H1178" stroke="#164e63"/>
   <circle cx="43" cy="38" r="4" fill="#fb7185"/><circle cx="57" cy="38" r="4" fill="#fbbf24"/><circle cx="71" cy="38" r="4" fill="#4ade80"/>
-  <text x="90" y="42" class="mono" font-size="11" letter-spacing="1.8" fill="#86efac">WHOAMI.EXE <tspan fill="#67e8f9">/</tspan> PROFILE.SYS</text>
+  <text x="90" y="42" class="mono" font-size="11" letter-spacing="1.8" fill="#86efac">02 // ABOUT <tspan fill="#67e8f9">/</tspan> WHOAMI.EXE</text>
   <rect x="42" y="72" width="8" height="91" rx="4" fill="url(#green)"/>
   <text x="68" y="90" class="mono" font-size="11" letter-spacing="1.4" fill="#86efac">$ whoami</text>
   <text x="68" y="119" class="ui" font-size="27" font-weight="750" fill="#f0fdf4">Mahendra Sai Kondaveeti</text>

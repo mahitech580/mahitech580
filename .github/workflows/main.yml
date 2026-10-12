@@ -25,8 +25,9 @@ jobs:
         with:
           github_user_name: mahitech580
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2367e8f9&color_dots=%23071121,%23123e56,%230e7490,%2322d3ee,%23a78bfa
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2367e8f9&color_dots=%23071121,%23123e56,%230e7490,%2322d3ee,%23a78bfa
+            dist/github-contribution-grid-snake.svg?color_snake=%2322c55e&color_dots=%23030b07,%230b2816,%23145432,%2316a34a,%2386efac
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ef4444&color_dots=%23090505,%233f0b0d,%237f1d1d,%23b91c1c,%23fca5a5
+            dist/github-contribution-grid-snake-rainbow.svg?color_snake=%23d946ef&color_dots=%23030b12,%23065f46,%230ea5e9,%23a855f7,%23facc15
 
       - name: Publish contribution animations
         uses: crazy-max/ghaction-github-pages@v4

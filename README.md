@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahitech580/mahitech580/main/assets/mahi-cyber-profile.svg" alt="Mahendra Sai Kondaveeti — neon cyberpunk developer profile" width="100%" />
+  <img src="https://raw.githubusercontent.com/mahitech580/mahitech580/main/assets/mahi-cyber-profile.svg" alt="Mahendra Sai Kondaveeti — neon developer profile with real portrait and system information" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=67E8F9&center=true&vCenter=true&width=850&lines=PYTHON+%7C+SQL+%7C+BACKEND;BUILDING+PRACTICAL+SOFTWARE;EXPLORING+AI%2FML+%26+DATA;CODE.+BUILD.+SOLVE.+IMPROVE." alt="Animated developer focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1100&color=67E8F9&center=true&vCenter=true&width=850&lines=PYTHON+%7C+SQL+%7C+BACKEND+DEVELOPMENT;BUILDING+PRACTICAL+SOFTWARE;EXPLORING+AI%2FML+%26+DATA;CODE.+BUILD.+SOLVE.+IMPROVE." alt="Animated software developer introduction" />
 </p>
 
 <p align="center">
@@ -13,250 +13,223 @@
   <img src="https://img.shields.io/badge/OPEN-ENTRY--LEVEL%20ROLES-071321?style=for-the-badge&labelColor=111827&color=7c3aed" alt="Open to entry-level roles" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-* 🎓 Computer Science & Engineering Graduate — 2026
-* 💻 Aspiring Software Developer
-* 🐍 Python-focused development
-* 🗄️ SQL & relational database development
-* 🌐 Backend & web application development
-* 🤖 AI/ML and data-driven applications
-* 🧩 Practicing Data Structures & Algorithms
-* 🔨 Building practical projects to strengthen software engineering skills
-* 🚀 Open to entry-level Software Development opportunities
-
----
-
-## 🛠️ Technical Skills
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
-### Web & Backend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### AI / Data
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge\&logo=opencv\&logoColor=white)
-
-### Tools & Development
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
 <p align="center">
-  <em>Selected engineering work across applied AI, full-stack products, and data systems.</em>
+  <a href="#about-me">ABOUT</a> ·
+  <a href="#tech-stack">TECH STACK</a> ·
+  <a href="#selected-projects">PROJECTS</a> ·
+  <a href="#contribution-activity">CONTRIBUTIONS</a> ·
+  <a href="#connect">CONNECT</a>
 </p>
 
 ---
 
-### 📊 [DataVision Intelligence](https://github.com/mahitech580/DataVision-Intelligence)
-**AI-powered data intelligence · AutoML · Explainable analytics**
-
-An end-to-end platform that turns raw datasets into actionable insights through automated profiling, data-quality analysis, exploratory analytics, model training, comparison, and predictions.
-
-**Engineering highlights:** Dataset health and quality signals · background AutoML jobs · live training updates with Server-Sent Events · persisted experiments and models · preprocessing pipelines designed to reduce train/test leakage.
-
-**Tech stack:** Python · FastAPI · Pandas · Scikit-learn · JavaScript · Chart.js
-
-**Explore:** [Source code](https://github.com/mahitech580/DataVision-Intelligence)
-
----
-
-### 🏥 [AVERIS — Healthcare Operations OS](https://github.com/mahitech580/averis)
-**Product engineering · Workflow simulation · Local-first application**
-
-A browser-based operations experience that connects 18 workspaces across people, journeys, queues, schedules, capacity, workforce, diagnostics, pharmacy, finance, incidents, quality, insights, reporting, and audit.
-
-**Engineering highlights:** Connected workspace navigation · locally persisted interactions · operational overviews and workflows · simulated records clearly separated from real healthcare data.
-
-**Tech stack:** HTML · CSS · JavaScript · LocalStorage
-
-**Explore:** [Source code](https://github.com/mahitech580/averis) · [Live website](https://mahitech580.github.io/averis/)
-
----
-
-### 🎙️ [VoxGen AI — Local Voice Assistant](https://github.com/mahitech580/VoxGen-AI)
-**Voice AI · Local LLM · Streaming interfaces**
-
-A local-first voice assistant that combines speech recognition, conversational context, command handling, a local language model, and spoken responses through terminal and browser interfaces.
-
-**Engineering highlights:** Qwen3 inference through Ollama · Whisper-based speech-to-text support · separate routes for deterministic commands and open-ended questions · SQLite conversation history · Server-Sent Events for streamed replies · graceful model-unavailable handling.
-
-**Tech stack:** Python · FastAPI · Ollama · Qwen3 · Whisper · SQLite · JavaScript · Server-Sent Events
-
-**Explore:** [Source code](https://github.com/mahitech580/VoxGen-AI)
-
----
-
-### ✈️ [TripPilot — Travel Planning OS](https://github.com/mahitech580/TripPilot-Travel-Planner)
-**Interactive web application · Location intelligence · Planning tools**
-
-A travel-planning experience for discovering destinations, organizing trips and itineraries, planning transport and stays, estimating budgets, maintaining packing lists, and managing saved trips.
-
-**Engineering highlights:** Destination lookup · current weather context and forecasts · interactive maps and road-route estimates · itinerary and budget planning · local trip library and settings. Flight, train, bus, and hotel inventory are not represented as live booking availability.
-
-**Tech stack:** HTML · CSS · JavaScript · LocalStorage · Leaflet · Open-Meteo · OSRM
-
-**Explore:** [Source code](https://github.com/mahitech580/TripPilot-Travel-Planner) · [Live demo](https://mahitech580.github.io/TripPilot-Travel-Planner/)
-
----
-
-### 🏦 [Banking Financial Transaction Management System](https://github.com/mahitech580/Banking-Financial-Transaction-Management-MySQL)
-**Database engineering · Financial operations · Advanced SQL**
-
-A MySQL database project modeling connected banking workflows across customers, accounts, transactions, transfers, cards, loans, repayments, payments, settlements, fraud events, and risk analysis.
-
-**Engineering highlights:** Relational modeling and integrity constraints · transaction lifecycle analysis · joins and advanced queries · database-level business logic · indexes and query optimization concepts.
-
-**Tech stack:** MySQL · SQL · Relational database design
-
-**Explore:** [Source code](https://github.com/mahitech580/Banking-Financial-Transaction-Management-MySQL)
-
----
-
-### 🚚 [LastMileIQ-SQL — Delivery Intelligence](https://github.com/mahitech580/LastMileIQ-SQL)
-**PostgreSQL · Operations analytics · Query optimization**
-
-A SQL-only analytics project that follows last-mile delivery from order and courier assignment through routes, stops, delivery attempts, returns, costs, earnings, and performance.
-
-**Engineering highlights:** Delivery and courier analytics · route efficiency and delay patterns · customer and profitability analysis · CTEs and window functions · views, procedures, triggers, transactions, indexes, and query-plan analysis.
-
-**Tech stack:** PostgreSQL · SQL · Analytical query design
-
-**Explore:** [Source code](https://github.com/mahitech580/LastMileIQ-SQL)
-
----
-
-### 🎭 [Deepfake Video Detection System](https://github.com/mahitech580/deepfake-video-detection)
-**Computer vision · CNNs · Frequency-domain analysis**
-
-A video-analysis project exploring manipulated-media detection by combining frame-level visual features with frequency-domain signals.
-
-**Engineering highlights:** Video frame extraction and preprocessing · ResNet50-based classification · FFT-based artifact analysis · aggregation across sampled frames · Streamlit interface and scripts for custom model training.
-
-**Tech stack:** Python · TensorFlow/Keras · ResNet50 · OpenCV · NumPy · Streamlit
-
-**Explore:** [Source code](https://github.com/mahitech580/deepfake-video-detection)
-
----
-
-### 🌾 [Crop Yield Prediction & Fertilizer Recommendation](https://github.com/mahitech580/crop-yield-predictor)
-**Applied machine learning · Agricultural data · Regression**
-
-An agricultural prediction application designed to estimate crop yield from soil and environmental inputs and support fertilizer recommendations.
-
-**Engineering highlights:** Soil nutrient and pH inputs · rainfall and temperature features · crop, season, and irrigation context · regression/deep-learning experiments · Flask-based prediction interface.
-
-**Tech stack:** Python · Flask · Machine Learning · Deep Learning · SQLite
-
-**Explore:** [Source code](https://github.com/mahitech580/crop-yield-predictor) · [Live demo](https://crop-yield-predictor-pius.onrender.com)
-
----
-
-# 📌 Other Areas I'm Building
-
-* 🐍 Python applications and backend services
-* 🗄️ SQL databases and database-driven applications
-* 🌐 Full-stack web applications
-* 🤖 AI/ML applications
-* 📊 Data analysis projects
-* 🔌 REST API-based applications
-* 🧩 DSA and problem-solving solutions
-* ☁️ Exploring modern software development technologies
-
----
-
-# 📚 Currently Strengthening
+## <a id="about-me"></a>01 // About Me
 
 ```text
-Python
-SQL & Database Design
-Data Structures & Algorithms
-Backend Development
-REST APIs
-Web Development
-Git & GitHub
-AI / Machine Learning
-Data Analysis
-Software Engineering Fundamentals
+$ whoami
+Mahendra Sai Kondaveeti
+Computer Science & Engineering Graduate · 2026
+
+$ focus --current
+Python | SQL | Backend Development | Applied AI/ML
+
+$ mission
+Build useful software, understand the data behind it,
+and improve through practical engineering projects.
 ```
 
----
+I’m a Computer Science & Engineering graduate focused on building practical applications and strengthening my foundations in **Python, SQL, backend engineering, web technologies, and AI/ML**. I learn by developing projects that connect interfaces, APIs, data, and real application workflows.
 
-# 🎯 Career Focus
-
-I’m looking to start my career as a **Software Developer** and grow through hands-on engineering work.
-
-My current focus is on developing strong fundamentals in:
-
-**Programming → DSA → SQL → Backend → APIs → Databases → Software Engineering → AI/ML**
-
-I’m particularly interested in entry-level opportunities involving **Python, backend development, full-stack development, software engineering, SQL/data, and AI/ML**.
+I’m open to **entry-level software development opportunities** and interested in Python/backend, full-stack, SQL/data, and applied AI/ML roles.
 
 ---
 
-# 📈 My GitHub
+## <a id="tech-stack"></a>02 // Tech Stack
 
-I use GitHub to:
+<p><strong>Languages</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
-* Build practical projects
-* Practice programming and DSA
-* Experiment with new technologies
-* Work with databases and APIs
-* Document my development journey
-* Improve through consistent coding
+<p><strong>Web & Backend</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
 
-**GitHub:** [github.com/mahitech580](https://github.com/mahitech580)
+<p><strong>Databases</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<p><strong>AI, Machine Learning & Data</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
+<p><strong>Tools</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+</p>
 
 ---
 
-## 🔥 Building in Public
+## <a id="selected-projects"></a>03 // Selected Projects
+
+<p align="center"><em>Projects built to practice product thinking, data workflows, backend logic, and applied machine learning.</em></p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ <a href="https://github.com/mahitech580/DataVision-Intelligence">DataVision Intelligence</a></h3>
+      <p><strong>Data intelligence · AutoML · Explainability</strong></p>
+      <p>Analyzes uploaded datasets with profiling, data-quality signals, exploratory analytics, model training/comparison, explanations, and predictions. Training jobs emit real-time progress updates.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /></p>
+      <p><a href="https://github.com/mahitech580/DataVision-Intelligence">SOURCE ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ <a href="https://github.com/mahitech580/averis">AVERIS — Healthcare Operations OS</a></h3>
+      <p><strong>Workflow simulation · Local-first UX</strong></p>
+      <p>A browser-local operations experience connecting 18 workspaces for journeys, queues, scheduling, capacity, workforce, diagnostics, pharmacy, finance, incidents, reporting, and audit. All records are synthetic.</p>
+      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" /></p>
+      <p><a href="https://github.com/mahitech580/averis">SOURCE ↗</a> · <a href="https://mahitech580.github.io/averis/">LIVE SITE ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ <a href="https://github.com/mahitech580/VoxGen-AI">VoxGen AI</a></h3>
+      <p><strong>Local voice assistant · LLM · Streaming</strong></p>
+      <p>Combines speech recognition, local Qwen inference through Ollama, conversational context, deterministic command handling, spoken responses, SQLite history, and a streaming web console.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /></p>
+      <p><a href="https://github.com/mahitech580/VoxGen-AI">SOURCE ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ <a href="https://github.com/mahitech580/TripPilot-Travel-Planner">TripPilot — Travel Planning OS</a></h3>
+      <p><strong>Interactive web product · Travel context</strong></p>
+      <p>Organizes destination discovery, itineraries, transport planning, stays, budgets, packing, and saved trips, with destination lookup, weather context, maps, and approximate road routes.</p>
+      <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" /> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" /> <img src="https://img.shields.io/badge/LocalStorage-334155?style=flat-square" alt="LocalStorage" /></p>
+      <p><a href="https://github.com/mahitech580/TripPilot-Travel-Planner">SOURCE ↗</a> · <a href="https://mahitech580.github.io/TripPilot-Travel-Planner/">LIVE DEMO ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ <a href="https://github.com/mahitech580/Banking-Financial-Transaction-Management-MySQL">Banking Transaction Management</a></h3>
+      <p><strong>Relational data modelling · Financial SQL</strong></p>
+      <p>Models customers, accounts, transactions, transfers, cards, loans, repayments, settlements, fraud events, and risk analysis with a focus on data integrity and analytical queries.</p>
+      <p><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/SQL-334155?style=flat-square" alt="SQL" /> <img src="https://img.shields.io/badge/Database%20Design-475569?style=flat-square" alt="Database design" /></p>
+      <p><a href="https://github.com/mahitech580/Banking-Financial-Transaction-Management-MySQL">SOURCE ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ <a href="https://github.com/mahitech580/LastMileIQ-SQL">LastMileIQ-SQL</a></h3>
+      <p><strong>Delivery intelligence · PostgreSQL analytics</strong></p>
+      <p>Analyzes delivery lifecycle performance, courier workload, route efficiency, delays, customer patterns, failed deliveries, delivery costs, earnings, and operational risks.</p>
+      <p><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/CTEs%20%26%20Windows-334155?style=flat-square" alt="CTEs and window functions" /> <img src="https://img.shields.io/badge/Analytics-475569?style=flat-square" alt="Analytics" /></p>
+      <p><a href="https://github.com/mahitech580/LastMileIQ-SQL">SOURCE ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ <a href="https://github.com/mahitech580/deepfake-video-detection">Deepfake Video Detection</a></h3>
+      <p><strong>Computer vision · CNN · Frequency analysis</strong></p>
+      <p>Explores manipulated-video detection using frame extraction, image preprocessing, ResNet50-based classification, FFT features, multi-frame score aggregation, and a Streamlit interface.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" /></p>
+      <p><a href="https://github.com/mahitech580/deepfake-video-detection">SOURCE ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ <a href="https://github.com/mahitech580/crop-yield-predictor">Crop Yield Prediction</a></h3>
+      <p><strong>Applied ML · Agricultural data</strong></p>
+      <p>Estimates crop yield from soil and environmental inputs and supports fertilizer recommendations through a Flask-based prediction interface and regression/deep-learning experiments.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" alt="Machine learning" /></p>
+      <p><a href="https://github.com/mahitech580/crop-yield-predictor">SOURCE ↗</a> · <a href="https://crop-yield-predictor-pius.onrender.com">LIVE DEMO ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## <a id="contribution-activity"></a>04 // Contribution Activity
+
+<p align="center"><em>Live visualizations generated from public GitHub activity. GitHub and third-party cards may cache results, so figures can update with a delay.</em></p>
 
 <p align="center">
-  <b>Code. Build. Solve. Improve. 🚀</b>
+  <img height="165" width="49%" src="https://github-readme-stats.vercel.app/api?username=mahitech580&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=050914&title_color=67e8f9&icon_color=a78bfa&text_color=dbeafe" alt="GitHub statistics for mahitech580" />
+  <img height="165" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahitech580&layout=compact&langs_count=8&hide_border=true&theme=transparent&bg_color=050914&title_color=67e8f9&text_color=dbeafe" alt="Most-used public repository languages for mahitech580" />
 </p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=mahitech580&theme=transparent&hide_border=true&background=050914&ring=22d3ee&fire=a78bfa&currStreakLabel=67e8f9&sideLabels=8ba4c7&currStreakNum=eaf7ff&sideNums=eaf7ff&dates=8ba4c7" alt="GitHub contribution streak calculated by an external stats service" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahitech580&bg_color=050914&color=67e8f9&line=22d3ee&point=a78bfa&area_color=0e7490&area=true&hide_border=true&custom_title=PUBLIC%20CONTRIBUTION%20ACTIVITY" alt="Public GitHub contribution activity graph" />
+</p>
+
+### Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahitech580/mahitech580/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahitech580/mahitech580/gh-pages/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake following the real GitHub contribution grid" src="https://raw.githubusercontent.com/mahitech580/mahitech580/gh-pages/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center"><sub>Snake assets are generated from GitHub’s contribution calendar by this repository’s scheduled GitHub Actions workflow. Stats and language cards are external, dynamic embeds rather than hand-entered numbers.</sub></p>
 
 ---
 
-## 🤝 Connect With Me
+## 05 // Current Focus
 
-<p align="left">
-<a href="https://github.com/mahitech580">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/mahendra-sai-kondaveeti-93438b279/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ENGINEERING</h3>
+      <ul>
+        <li>Python fundamentals and problem solving</li>
+        <li>SQL, relational modelling, and query analysis</li>
+        <li>Backend services and REST API design</li>
+        <li>Practical full-stack application workflows</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>APPLIED DATA & AI</h3>
+      <ul>
+        <li>Data analysis and data-quality checks</li>
+        <li>Machine-learning workflows and evaluation</li>
+        <li>Computer vision and local LLM experiments</li>
+        <li>Explainable, maintainable project implementations</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⚡ Build. Learn. Solve. Repeat.
+## <a id="connect"></a>06 // Connect
+
+<p align="center">
+  <a href="https://github.com/mahitech580"><img src="https://img.shields.io/badge/GitHub-View%20Repositories-071321?style=for-the-badge&logo=github&logoColor=67e8f9" alt="View GitHub repositories" /></a>
+  <a href="https://www.linkedin.com/in/mahendra-sai-kondaveeti-93438b279/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-071321?style=for-the-badge&logo=linkedin&logoColor=67e8f9" alt="Connect on LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <strong>BUILD. LEARN. SOLVE. REPEAT.</strong><br/>
+  <sub>Working toward useful software, better systems, and stronger engineering fundamentals.</sub>
+</p>

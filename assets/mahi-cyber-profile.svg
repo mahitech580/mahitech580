@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="590" viewBox="0 0 1200 590" role="img" aria-labelledby="title desc">
   <title id="title">Mahendra Sai Kondaveeti — Neon Developer Profile</title>
-  <desc id="desc">A dark cyberpunk developer profile card with a neon portrait illustration, technical system information, skills and contact hints.</desc>
+  <desc id="desc">A dark cyberpunk developer profile card with an embedded professional portrait photograph, neon framing, technical system information, skills and contact links.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#050914"/><stop offset=".56" stop-color="#071126"/><stop offset="1" stop-color="#100725"/>

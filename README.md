@@ -10,11 +10,10 @@
   <a href="https://github.com/mahitech580"><img src="https://img.shields.io/badge/GitHub-mahitech580-071321?style=for-the-badge&amp;logo=github&amp;logoColor=67E8F9" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/mahendra-sai-kondaveeti-93438b279/"><img src="https://img.shields.io/badge/LinkedIn-Connect-071321?style=for-the-badge&amp;logo=linkedin&amp;logoColor=67E8F9" alt="LinkedIn profile" /></a>
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20ENTRY--LEVEL-071321?style=for-the-badge&amp;labelColor=111827&amp;color=0e7490" alt="Open to entry-level roles" />
-  <img src="https://komarev.com/ghpvc/?username=mahitech580&amp;style=for-the-badge&amp;color=0e7490&amp;label=PROFILE+VIEWS" alt="Profile views from an external counter" />
 </p>
 
 <p align="center">
-  <a href="#github-snapshot">SNAPSHOT</a> · <a href="#contribution-calendar">CONTRIBUTION GRID</a> · <a href="#about">ABOUT</a> · <a href="#engineering-focus">FOCUS</a> · <a href="#engineering-stack">TECH STACK</a> · <a href="#ai-ml-practice">AI / ML</a> · <a href="#projects">PROJECTS</a> · <a href="#contributions">ACTIVITY</a> · <a href="#connect">CONNECT</a>
+  <a href="#github-snapshot">SNAPSHOT</a> · <a href="#contributions">CONTRIBUTION GRID</a> · <a href="#about">ABOUT</a> · <a href="#engineering-focus">FOCUS</a> · <a href="#engineering-stack">TECH STACK</a> · <a href="#ai-ml-practice">AI / ML</a> · <a href="#projects">PROJECTS</a> · <a href="#contributions">ACTIVITY</a> · <a href="#connect">CONNECT</a>
 </p>
 
 ---
@@ -26,25 +25,8 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahitech580&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent&amp;bg_color=050914&amp;title_color=67e8f9&amp;text_color=dbeafe" alt="Language distribution across public repositories" />
 </p>
 
-<p align="center"><sub>Statistics and profile views are rendered dynamically and may be cached by their providers.</sub></p>
+<p align="center"><sub>GitHub statistics and language cards are fetched dynamically; third-party providers may cache results.</sub></p>
 
-
-### <a id="contribution-calendar"></a>Contribution Calendar
-
-<p align="center">
-  <img width="68%" src="https://streak-stats.demolab.com?user=mahitech580&amp;theme=transparent&amp;hide_border=true&amp;background=050914&amp;ring=22d3ee&amp;fire=a78bfa&amp;currStreakLabel=67e8f9&amp;sideLabels=8ba4c7&amp;currStreakNum=eaf7ff&amp;sideNums=eaf7ff&amp;dates=8ba4c7" alt="Current and longest GitHub contribution streaks calculated by an external stats service" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/mahitech580">
-    <img src="https://ghchart.rshah.org/67e8f9/mahitech580" alt="GitHub contribution calendar generated from public activity for mahitech580" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mahitech580"><img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-071321?style=for-the-badge&amp;logo=github&amp;logoColor=67e8f9" alt="GitHub repositories" /></a>
-  <a href="https://www.linkedin.com/in/mahendra-sai-kondaveeti-93438b279/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-071321?style=for-the-badge&amp;logo=linkedin&amp;logoColor=67e8f9" alt="LinkedIn profile" /></a>
-</p>
 
 ---
 
@@ -279,25 +261,12 @@ I’m open to **entry-level software development opportunities**, particularly P
 
 ## <a id="contributions"></a>07 // CONTRIBUTION ACTIVITY
 
-<p align="center"><em>Activity visualizations are based on GitHub's public contribution data. Providers may cache responses or have occasional outages.</em></p>
-
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahitech580&amp;bg_color=050914&amp;color=67e8f9&amp;line=22d3ee&amp;point=a78bfa&amp;area_color=0e7490&amp;area=true&amp;hide_border=true&amp;custom_title=PUBLIC%20CONTRIBUTION%20ACTIVITY" alt="Public GitHub contribution activity graph for mahitech580" />
+  <img src="https://raw.githubusercontent.com/mahitech580/mahitech580/gh-pages/github-contribution-grid-snake-rainbow.svg" alt="Animated rainbow contribution snake generated from mahitech580's GitHub contribution calendar" width="100%" />
 </p>
-
-### Animated Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahitech580/mahitech580/gh-pages/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahitech580/mahitech580/gh-pages/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/mahitech580/mahitech580/gh-pages/github-contribution-grid-snake.svg" alt="Animated snake following the public GitHub contribution grid" width="100%" />
-  </picture>
-</p>
-
-<p align="center"><sub>The snake is generated from GitHub's contribution calendar by the repository's scheduled workflow. No hand-entered contribution totals or streaks are shown.</sub></p>
 
 ---
+
 ## <a id="connect"></a>08 // CONNECT
 
 <p align="center">

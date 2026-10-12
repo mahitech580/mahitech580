@@ -1,12 +1,17 @@
-# Hi, I'm Mahendra Sai Kondaveeti 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahitech580/mahitech580/main/assets/mahi-cyber-profile.svg" alt="Mahendra Sai Kondaveeti — neon cyberpunk developer profile" width="100%" />
+</p>
 
-### Computer Science Graduate | Aspiring Software Developer | Python | SQL | Backend | AI/ML
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=67E8F9&center=true&vCenter=true&width=850&lines=PYTHON+%7C+SQL+%7C+BACKEND;BUILDING+PRACTICAL+SOFTWARE;EXPLORING+AI%2FML+%26+DATA;CODE.+BUILD.+SOLVE.+IMPROVE." alt="Animated developer focus" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=850&lines=Building+Software+with+Python+%26+SQL;Developing+Backend+%26+Web+Applications;Solving+Problems+with+Code;Exploring+AI%2FML+%26+Data;Building+Practical+Projects" alt="Typing SVG" />
-
-I’m a **Computer Science & Engineering graduate** focused on building practical software applications and strengthening my skills in **Python, SQL, backend development, web technologies, and AI/ML**.
-
-I enjoy learning by building projects that involve **APIs, databases, automation, data processing, and real-world application workflows**.
+<p align="center">
+  <a href="https://github.com/mahitech580"><img src="https://img.shields.io/badge/GitHub-mahitech580-071321?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/mahendra-sai-kondaveeti-93438b279/"><img src="https://img.shields.io/badge/LinkedIn-Connect-071321?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn profile" /></a>
+  <img src="https://img.shields.io/badge/FOCUS-PYTHON%20%2F%20SQL-071321?style=for-the-badge&labelColor=111827&color=0891b2" alt="Python and SQL focus" />
+  <img src="https://img.shields.io/badge/OPEN-ENTRY--LEVEL%20ROLES-071321?style=for-the-badge&labelColor=111827&color=7c3aed" alt="Open to entry-level roles" />
+</p>
 
 ---
 

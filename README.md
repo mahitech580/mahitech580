@@ -13,7 +13,15 @@
 </p>
 
 <p align="center">
-  <a href="#github-snapshot">SNAPSHOT</a> · <a href="#contributions">CONTRIBUTION GRID</a> · <a href="#about">ABOUT</a> · <a href="#engineering-focus">FOCUS</a> · <a href="#engineering-stack">TECH STACK</a> · <a href="#ai-ml-practice">AI / ML</a> · <a href="#projects">PROJECTS</a> · <a href="#contributions">ACTIVITY</a> · <a href="#connect">CONNECT</a>
+  🟢 <a href="#github-snapshot">SNAPSHOT</a> &nbsp;·&nbsp;
+  🔴 <a href="#contributions">CONTRIBUTION GRID</a> &nbsp;·&nbsp;
+  🟣 <a href="#about">ABOUT</a> &nbsp;·&nbsp;
+  🟡 <a href="#engineering-focus">FOCUS</a> &nbsp;·&nbsp;
+  🔵 <a href="#engineering-stack">TECH STACK</a> &nbsp;·&nbsp;
+  🌸 <a href="#ai-ml-practice">AI / ML</a> &nbsp;·&nbsp;
+  🟠 <a href="#projects">PROJECTS</a> &nbsp;·&nbsp;
+  🟢 <a href="#contributions">ACTIVITY</a> &nbsp;·&nbsp;
+  🌈 <a href="#connect">CONNECT</a>
 </p>
 
 ---
@@ -30,20 +38,14 @@
 
 ---
 
-## <a id="about"></a>02 // ABOUT
+<a id="about"></a>
+<p align="center"><strong>02 // ABOUT</strong></p>
 
-```text
-$ whoami
-Mahendra Sai Kondaveeti
-Computer Science & Engineering Graduate · 2026
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahitech580/mahitech580/main/assets/sections/about-panel.svg" alt="Animated terminal-style About panel for Mahendra Sai Kondaveeti, CSE graduate 2026, focused on Python, SQL, backend development, and applied AI/ML" width="100%" />
+</p>
 
-$ focus --current
-Python | SQL | Backend Development | Applied AI/ML
 
-$ engineering-principle
-Build useful software. Understand the data.
-Make features clear, testable, and maintainable.
-```
 
 I’m a Computer Science & Engineering graduate focused on building practical software applications and strengthening my foundations in **Python, SQL, backend engineering, web technologies, and AI/ML**. I learn by creating projects that connect interfaces, APIs, databases, automation, and data workflows.
 
@@ -51,32 +53,10 @@ I’m open to **entry-level software development opportunities**, particularly P
 
 ---
 
-## <a id="engineering-focus"></a>03 // ENGINEERING FOCUS
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>SOFTWARE ENGINEERING</h3>
-      <ul>
-        <li>Python fundamentals and problem solving</li>
-        <li>Data structures and algorithms</li>
-        <li>SQL and relational database design</li>
-        <li>Backend services and REST API workflows</li>
-        <li>Maintainable code and practical testing</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>DATA & APPLIED AI</h3>
-      <ul>
-        <li>Data analysis and data-quality checks</li>
-        <li>Machine-learning workflows and evaluation</li>
-        <li>Computer vision and video preprocessing</li>
-        <li>Local LLM and voice-assistant experiments</li>
-        <li>Explainable, responsible application design</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<a id="engineering-focus"></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahitech580/mahitech580/main/assets/sections/engineering-focus.svg" alt="Animated 3D Engineering Focus cards: Software Engineering with Python, DSA, SQL, backend APIs and testing; Data and Applied AI with data quality, ML evaluation, computer vision, local LLM experiments and explainable design" width="100%" />
+</p>
 
 ---
 
@@ -116,37 +96,43 @@ I’m open to **entry-level software development opportunities**, particularly P
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&amp;theme=dark" alt="Git, GitHub, GitHub Actions and Visual Studio Code" />
 </p>
 
-### Engineering Ecosystem
+<a id="engineering-ecosystem"></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahitech580/mahitech580/main/assets/sections/engineering-ecosystem.svg" alt="Animated 3D Engineering Ecosystem title card with forest-green, crimson and rainbow lighting" width="100%" />
+</p>
 <p>
-  <img src="https://img.shields.io/badge/ENGINEERING-071321?style=flat-square&amp;labelColor=111827&amp;color=0891b2" alt="Engineering" />
-  <img src="https://img.shields.io/badge/APIs-071321?style=flat-square&amp;labelColor=111827&amp;color=0891b2" alt="APIs" />
-  <img src="https://img.shields.io/badge/DATA%20WORKFLOWS-071321?style=flat-square&amp;labelColor=111827&amp;color=0e7490" alt="Data workflows" />
-  <img src="https://img.shields.io/badge/AUTOMATION-071321?style=flat-square&amp;labelColor=111827&amp;color=0e7490" alt="Automation" />
-  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-071321?style=flat-square&amp;labelColor=111827&amp;color=7c3aed" alt="Machine learning" />
-  <img src="https://img.shields.io/badge/COMPUTER%20VISION-071321?style=flat-square&amp;labelColor=111827&amp;color=7c3aed" alt="Computer vision" />
-  <img src="https://img.shields.io/badge/LOCAL%20LLM%20EXPERIMENTS-071321?style=flat-square&amp;labelColor=111827&amp;color=7c3aed" alt="Local LLM experiments" />
-  <img src="https://img.shields.io/badge/TESTING%20%26%20QUALITY-071321?style=flat-square&amp;labelColor=111827&amp;color=0891b2" alt="Testing and quality" />
-  <img src="https://img.shields.io/badge/AGENT%20ORCHESTRATION-CYRUS-071321?style=flat-square&amp;labelColor=111827&amp;color=7c3aed" alt="Agent orchestration project" />
-  <img src="https://img.shields.io/badge/RAG-LEARNING%20FOCUS-071321?style=flat-square&amp;labelColor=111827&amp;color=7c3aed" alt="RAG is a learning focus" />
-  <img src="https://img.shields.io/badge/LLM%20APPS-VOXGEN-071321?style=flat-square&amp;labelColor=111827&amp;color=0e7490" alt="Local LLM application project" />
+  <img src="https://img.shields.io/badge/ENGINEERING-071321?style=flat-square&amp;labelColor=071321&amp;color=22c55e" alt="Engineering" />
+  <img src="https://img.shields.io/badge/APIs-071321?style=flat-square&amp;labelColor=071321&amp;color=38bdf8" alt="APIs" />
+  <img src="https://img.shields.io/badge/DATA%20WORKFLOWS-071321?style=flat-square&amp;labelColor=071321&amp;color=14b8a6" alt="Data workflows" />
+  <img src="https://img.shields.io/badge/AUTOMATION-071321?style=flat-square&amp;labelColor=071321&amp;color=f59e0b" alt="Automation" />
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-071321?style=flat-square&amp;labelColor=071321&amp;color=a78bfa" alt="Machine learning" />
+  <img src="https://img.shields.io/badge/COMPUTER%20VISION-071321?style=flat-square&amp;labelColor=071321&amp;color=f472b6" alt="Computer vision" />
+  <img src="https://img.shields.io/badge/LOCAL%20LLM%20EXPERIMENTS-071321?style=flat-square&amp;labelColor=071321&amp;color=ef4444" alt="Local LLM experiments" />
+  <img src="https://img.shields.io/badge/TESTING%20%26%20QUALITY-071321?style=flat-square&amp;labelColor=071321&amp;color=eab308" alt="Testing and quality" />
+  <img src="https://img.shields.io/badge/AGENT%20ORCHESTRATION-CYRUS-071321?style=flat-square&amp;labelColor=071321&amp;color=fb7185" alt="Agent orchestration project" />
+  <img src="https://img.shields.io/badge/RAG-LEARNING%20FOCUS-071321?style=flat-square&amp;labelColor=071321&amp;color=c084fc" alt="RAG is a learning focus" />
+  <img src="https://img.shields.io/badge/LLM%20APPS-VOXGEN-071321?style=flat-square&amp;labelColor=071321&amp;color=60a5fa" alt="Local LLM application project" />
 </p>
 
 ---
 
-## <a id="ai-ml-practice"></a>05 // AI / ML EXPERTISE
+<a id="ai-ml-practice"></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahitech580/mahitech580/main/assets/sections/ai-ml-expertise.svg" alt="Animated 3D AI and ML expertise heading card, highlighting project-backed work and learning focus" width="100%" />
+</p>
 
-<p><em>Project-backed work is separated from learning topics. These labels describe current repository evidence, not certifications or claimed proficiency levels.</em></p>
+<p><em>Evidence labels describe current repository work, not certifications or claimed proficiency levels.</em></p>
 
 | Domain | Current evidence | Practical focus |
 |---|---|---|
-| Data intelligence & AutoML | Project-backed · DataVision | Profiling, data-quality indicators, model comparison, persisted experiments, and predictions |
-| Computer vision | Project-backed · Deepfake Detection | Frame sampling, preprocessing, ResNet50 classification, FFT features, and score aggregation |
-| Local LLM applications | Project-backed · VoxGen AI | Ollama/Qwen inference, voice input/output, conversation context, command routing, and streaming UI |
-| Agent orchestration | Project-backed · CYRUS | Seven-stage execution flow, structured traces, streamed progress, cancellation, and supervised approval |
-| SQL analytics | Project-backed · Banking / LastMileIQ | Relational schema design, data integrity, joins, CTEs, window functions, and business analysis |
-| Backend & realtime workflows | Project-backed · DataVision / VoxGen | FastAPI endpoints, background tasks, Server-Sent Events, and persistence |
-| Retrieval-augmented generation (RAG) | Learning focus | Retrieval, chunking, embeddings, and grounded response design |
-| Agent protocols & evaluation | Learning focus | Tool boundaries, structured outputs, test cases, and evaluation basics |
+| <img src="https://img.shields.io/badge/DATA%20INTELLIGENCE-0ea5e9?style=flat-square&amp;labelColor=071321" alt="Data intelligence" /> | <img src="https://img.shields.io/badge/PROJECT--BACKED-22c55e?style=flat-square&amp;labelColor=071321" alt="Project-backed" /> DataVision | Profiling, data-quality indicators, model comparison, persisted experiments, and predictions |
+| <img src="https://img.shields.io/badge/COMPUTER%20VISION-f472b6?style=flat-square&amp;labelColor=071321" alt="Computer vision" /> | <img src="https://img.shields.io/badge/PROJECT--BACKED-22c55e?style=flat-square&amp;labelColor=071321" alt="Project-backed" /> Deepfake Detection | Frame sampling, preprocessing, ResNet50 classification, FFT features, and score aggregation |
+| <img src="https://img.shields.io/badge/LOCAL%20LLM-ef4444?style=flat-square&amp;labelColor=071321" alt="Local LLM applications" /> | <img src="https://img.shields.io/badge/PROJECT--BACKED-22c55e?style=flat-square&amp;labelColor=071321" alt="Project-backed" /> VoxGen AI | Ollama/Qwen inference, voice input/output, conversation context, command routing, and streaming UI |
+| <img src="https://img.shields.io/badge/AGENT%20ORCHESTRATION-fb7185?style=flat-square&amp;labelColor=071321" alt="Agent orchestration" /> | <img src="https://img.shields.io/badge/PROJECT--BACKED-22c55e?style=flat-square&amp;labelColor=071321" alt="Project-backed" /> CYRUS | Seven-stage execution flow, structured traces, streamed progress, cancellation, and supervised approval |
+| <img src="https://img.shields.io/badge/SQL%20ANALYTICS-f59e0b?style=flat-square&amp;labelColor=071321" alt="SQL analytics" /> | <img src="https://img.shields.io/badge/PROJECT--BACKED-22c55e?style=flat-square&amp;labelColor=071321" alt="Project-backed" /> Banking / LastMileIQ | Relational schema design, data integrity, joins, CTEs, window functions, and business analysis |
+| <img src="https://img.shields.io/badge/BACKEND%20%26%20REALTIME-38bdf8?style=flat-square&amp;labelColor=071321" alt="Backend and realtime workflows" /> | <img src="https://img.shields.io/badge/PROJECT--BACKED-22c55e?style=flat-square&amp;labelColor=071321" alt="Project-backed" /> DataVision / VoxGen | FastAPI endpoints, background tasks, Server-Sent Events, and persistence |
+| <img src="https://img.shields.io/badge/RAG-c084fc?style=flat-square&amp;labelColor=071321" alt="Retrieval-augmented generation" /> | <img src="https://img.shields.io/badge/LEARNING%20FOCUS-f59e0b?style=flat-square&amp;labelColor=071321" alt="Learning focus" /> | Retrieval, chunking, embeddings, and grounded response design |
+| <img src="https://img.shields.io/badge/AGENT%20EVALUATION-14b8a6?style=flat-square&amp;labelColor=071321" alt="Agent protocols and evaluation" /> | <img src="https://img.shields.io/badge/LEARNING%20FOCUS-f59e0b?style=flat-square&amp;labelColor=071321" alt="Learning focus" /> | Tool boundaries, structured outputs, test cases, and evaluation basics |
 
 ---
 

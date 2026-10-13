@@ -57,27 +57,19 @@ I’m open to **entry-level software development opportunities**, particularly P
 ## <a id="engineering-stack"></a>04 // TECH STACK
 
 ### Languages & Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,react&amp;theme=dark" alt="Python, JavaScript, C++, HTML, CSS, and React" />
-</p>
-<p><strong>Also:</strong> SQL · Responsive UI · Browser storage</p>
+🟦 **Python** &nbsp; 🟨 **JavaScript** &nbsp; 🟦 **C++** &nbsp; 🟪 **SQL** &nbsp; 🟧 **HTML** &nbsp; 🟦 **CSS** &nbsp; ⚛️ **React**
 
-### Backend & Developer Tooling
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,git,github,githubactions,vscode&amp;theme=dark" alt="Flask, FastAPI, Node.js, Git, GitHub, GitHub Actions, and VS Code" />
-</p>
-<p><strong>Also:</strong> REST APIs · JSON · Server-Sent Events · Testing</p>
+### Backend & APIs
+🟩 **Flask** &nbsp; 🟢 **FastAPI** &nbsp; 🟩 **Node.js** &nbsp; 🔌 **REST APIs** &nbsp; 📡 **Server-Sent Events** &nbsp; 🧪 **Testing**
 
 ### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&amp;theme=dark" alt="MySQL, PostgreSQL, SQLite, and MongoDB" />
-</p>
+🔷 **MySQL** &nbsp; 🐘 **PostgreSQL** &nbsp; 🪶 **SQLite** &nbsp; 🍃 **MongoDB**
 
 ### AI / ML & Data
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&amp;theme=dark" alt="Scikit-learn, TensorFlow, and OpenCV" />
-</p>
-<p><strong>Also:</strong> Pandas · NumPy · Data analysis · Model evaluation · Local LLM experiments</p>
+🟠 **Scikit-learn** &nbsp; 🟧 **TensorFlow** &nbsp; 👁️ **OpenCV** &nbsp; 🐼 **Pandas** &nbsp; 🔢 **NumPy** &nbsp; 🧠 **Local LLM experiments**
+
+### Developer Tooling
+🌿 **Git** &nbsp; 🐙 **GitHub** &nbsp; ⚙️ **GitHub Actions** &nbsp; 💻 **VS Code** &nbsp; 📦 **JSON**
 
 <a id="engineering-ecosystem"></a>
 <p align="center">

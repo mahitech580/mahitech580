@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahitech580/mahitech580/main/assets/mahi-cyber-profile-v2.svg" alt="Mahendra Sai Kondaveeti — neon developer profile showing only Mahendra's real portrait in the visual map" width="100%" />
+  <img src="https://raw.githubusercontent.com/mahitech580/mahitech580/main/assets/mahi-cyber-profile-v3.svg" alt="Mahendra Sai Kondaveeti — neon developer profile showing only Mahendra's real portrait in the visual map" width="100%" />
 </p>
 
 <p align="center">

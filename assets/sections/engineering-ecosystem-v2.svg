@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="206" viewBox="0 0 1200 206" role="img" aria-labelledby="title desc">
+<title id="title">Engineering Ecosystem</title>
+<desc id="desc">Lightweight animated capability matrix covering engineering, APIs, data, automation, machine learning, computer vision, local LLM experiments, testing, agent orchestration, RAG learning and LLM applications.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06130e"/><stop offset=".55" stop-color="#071321"/><stop offset="1" stop-color="#18080e"/></linearGradient>
+  <linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22c55e"/><stop offset=".18" stop-color="#38bdf8"/><stop offset=".37" stop-color="#14b8a6"/><stop offset=".55" stop-color="#a78bfa"/><stop offset=".74" stop-color="#f472b6"/><stop offset=".88" stop-color="#ef4444"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
+  <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#67e8f9" stroke-opacity=".055"/></pattern>
+</defs>
+<style>
+  .mono{font-family:Consolas,'Liberation Mono',monospace}
+  .ui{font-family:Inter,Segoe UI,Arial,sans-serif}
+  .panel{transform-box:fill-box;transform-origin:center;animation:float 8s ease-in-out infinite}
+  .chip{animation:softPulse 7s ease-in-out infinite}
+  .chip:nth-child(2n){animation-delay:-2s}
+  .chip:nth-child(3n){animation-delay:-4s}
+  .border{stroke-dasharray:130 1070;animation:border 16s linear infinite}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
+  @keyframes softPulse{0%,100%{opacity:.88}50%{opacity:1}}
+  @keyframes border{to{stroke-dashoffset:-1200}}
+  @media(prefers-reduced-motion:reduce){.panel,.chip,.border{animation:none}}
+</style>
+<rect width="1200" height="206" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="206" rx="18" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="204" rx="17" fill="none" stroke="#164e63"/>
+<rect x="3" y="3" width="1194" height="200" rx="15" fill="none" stroke="url(#rainbow)" stroke-width="1.5" class="border"/>
+<g class="panel">
+  <text x="28" y="29" class="mono" font-size="10" letter-spacing="2" fill="#86efac">STACK.MAP / CAPABILITIES</text>
+  <text x="28" y="57" class="ui" font-size="24" font-weight="800" fill="#ecfdf5">ENGINEERING ECOSYSTEM</text>
+  <text x="1170" y="29" text-anchor="end" class="mono" font-size="10" letter-spacing="1.3" fill="#a7f3d0">BUILD · AUTOMATE · ANALYZE</text>
+  <g class="mono" font-size="11" font-weight="600">
+    <g class="chip"><rect x="28" y="76" width="150" height="32" rx="8" fill="#123c25" stroke="#22c55e"/><text x="103" y="96" text-anchor="middle" fill="#bbf7d0">ENGINEERING</text></g>
+    <g class="chip"><rect x="190" y="76" width="105" height="32" rx="8" fill="#102c40" stroke="#38bdf8"/><text x="242" y="96" text-anchor="middle" fill="#bae6fd">APIs</text></g>
+    <g class="chip"><rect x="307" y="76" width="150" height="32" rx="8" fill="#10362f" stroke="#14b8a6"/><text x="382" y="96" text-anchor="middle" fill="#99f6e4">DATA WORKFLOWS</text></g>
+    <g class="chip"><rect x="469" y="76" width="125" height="32" rx="8" fill="#3a2910" stroke="#f59e0b"/><text x="531" y="96" text-anchor="middle" fill="#fde68a">AUTOMATION</text></g>
+    <g class="chip"><rect x="606" y="76" width="164" height="32" rx="8" fill="#21183f" stroke="#a78bfa"/><text x="688" y="96" text-anchor="middle" fill="#ddd6fe">MACHINE LEARNING</text></g>
+    <g class="chip"><rect x="782" y="76" width="152" height="32" rx="8" fill="#3b1731" stroke="#f472b6"/><text x="858" y="96" text-anchor="middle" fill="#fbcfe8">COMPUTER VISION</text></g>
+    <g class="chip"><rect x="946" y="76" width="226" height="32" rx="8" fill="#3b1118" stroke="#ef4444"/><text x="1059" y="96" text-anchor="middle" fill="#fecaca">LOCAL LLM EXPERIMENTS</text></g>
+
+    <g class="chip"><rect x="28" y="126" width="166" height="32" rx="8" fill="#282c13" stroke="#eab308"/><text x="111" y="146" text-anchor="middle" fill="#fef08a">TESTING &amp; QUALITY</text></g>
+    <g class="chip"><rect x="206" y="126" width="210" height="32" rx="8" fill="#3b1018" stroke="#fb7185"/><text x="311" y="146" text-anchor="middle" fill="#fecdd3">AGENT ORCHESTRATION</text></g>
+    <g class="chip"><rect x="428" y="126" width="178" height="32" rx="8" fill="#2e1647" stroke="#c084fc"/><text x="517" y="146" text-anchor="middle" fill="#e9d5ff">RAG · LEARNING FOCUS</text></g>
+    <g class="chip"><rect x="618" y="126" width="163" height="32" rx="8" fill="#102d44" stroke="#60a5fa"/><text x="699" y="146" text-anchor="middle" fill="#dbeafe">LLM APPLICATIONS</text></g>
+  </g>
+  <path d="M28 176H1172" stroke="#214554"/>
+  <text x="28" y="192" class="mono" font-size="9.5" letter-spacing="1.2" fill="#83a4b4">PROJECT-BACKED ENGINEERING + CLEARLY LABELLED LEARNING AREAS</text>
+  <circle cx="1167" cy="188" r="3" fill="#4ade80"/>
+</g>
+</svg>

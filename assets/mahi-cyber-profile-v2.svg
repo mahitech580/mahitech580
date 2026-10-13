@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="710" viewBox="0 0 1200 710" role="img" aria-labelledby="title desc">
+<title id="title">Mahendra Sai Kondaveeti — VISUAL.MAP and SYSTEM.INFO</title>
+<desc id="desc">Dark cyberpunk developer profile card inspired by a terminal dashboard. It features Mahendra's real portrait as the only central visual, framed by animated forest-green smoke, crimson-red haze, rainbow neon, and system information.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#03070e"/><stop offset=".52" stop-color="#061327"/><stop offset="1" stop-color="#100725"/>
+  </linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8bfff5"/><stop offset=".55" stop-color="#22d3ee"/><stop offset="1" stop-color="#4777ff"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".54" stop-color="#4777ff"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#0ea5e9" stop-opacity=".3"/><stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/></radialGradient>
+  <radialGradient id="greenFog"><stop offset="0" stop-color="#16a34a" stop-opacity=".72"/><stop offset=".42" stop-color="#14532d" stop-opacity=".46"/><stop offset="1" stop-color="#052e16" stop-opacity="0"/></radialGradient>
+  <radialGradient id="redFog"><stop offset="0" stop-color="#dc2626" stop-opacity=".68"/><stop offset=".43" stop-color="#7f1d1d" stop-opacity=".43"/><stop offset="1" stop-color="#450a0a" stop-opacity="0"/></radialGradient>
+  <linearGradient id="rainbowFog" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22c55e" stop-opacity=".35"/><stop offset=".2" stop-color="#22d3ee" stop-opacity=".34"/><stop offset=".4" stop-color="#6366f1" stop-opacity=".4"/><stop offset=".6" stop-color="#d946ef" stop-opacity=".36"/><stop offset=".8" stop-color="#ef4444" stop-opacity=".38"/><stop offset="1" stop-color="#f59e0b" stop-opacity=".36"/>
+  </linearGradient>
+  <linearGradient id="rainbowLine" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#22c55e"/><stop offset=".18" stop-color="#22d3ee"/><stop offset=".36" stop-color="#6366f1"/><stop offset=".54" stop-color="#d946ef"/><stop offset=".72" stop-color="#ef4444"/><stop offset=".88" stop-color="#f59e0b"/><stop offset="1" stop-color="#22c55e"/>
+  </linearGradient>
+  <filter id="smokeBlur" x="-60%" y="-60%" width="220%" height="220%">
+    <feTurbulence type="fractalNoise" baseFrequency=".012 .035" numOctaves="2" seed="9" result="noise"/>
+    <feDisplacementMap in="SourceGraphic" in2="noise" scale="28" xChannelSelector="R" yChannelSelector="G"/>
+    <feGaussianBlur stdDeviation="20"/>
+  </filter>
+  <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#22d3ee" stroke-opacity=".075"/><circle cx="0" cy="0" r="1" fill="#67e8f9" fill-opacity=".18"/></pattern>
+  <pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".9" fill="#e0f2fe" fill-opacity=".12"/></pattern>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3.3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="speckle" x="-18%" y="-18%" width="136%" height="136%">
+    <feTurbulence type="fractalNoise" baseFrequency=".65" numOctaves="1" seed="9" result="noise"/>
+    <feDisplacementMap in="SourceGraphic" in2="noise" scale="2.6" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <clipPath id="visualClip"><rect x="54" y="144" width="418" height="330" rx="8"/></clipPath>
+</defs>
+<style>
+  .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}
+  .ui{font-family:Inter,Segoe UI,Arial,sans-serif}
+  .muted{fill:#7892b6}
+  .white{fill:#eaf7ff}
+  .cyan{fill:#67e8f9}
+  .violet{fill:#c4b5fd}
+  .tiny{font-size:11px;letter-spacing:1.55px}
+  .label{font-size:10px;letter-spacing:1.2px;fill:#7892b6}
+  .value{font-size:12.5px;fill:#e5f7ff}
+  .pulse{animation:pulse 3s ease-in-out infinite}
+  .scan{animation:scan 5.6s linear infinite}
+  .float{animation:float 4.2s ease-in-out infinite}
+  .headline{font-size:22px;font-weight:650;fill:#eaf7ff;letter-spacing:.6px;opacity:0}
+  .headline-a{animation:headline-a 16s linear infinite}
+  .headline-b{animation:headline-b 16s linear infinite}
+  .headline-c{animation:headline-c 16s linear infinite}
+  .visual-face{opacity:1}
+  .smoke{mix-blend-mode:screen;transform-box:fill-box;transform-origin:center;opacity:.22}
+  .smoke-green{animation:green-smoke 13s ease-in-out infinite}
+  .smoke-red{animation:red-smoke 15s ease-in-out infinite}
+  .smoke-rainbow{animation:rainbow-smoke 18s ease-in-out infinite}
+  .rainbow-frame{stroke-dasharray:190 1120;animation:rainbow-flow 11s linear infinite}
+  .smoke-hover-zone:hover .smoke-green{opacity:.52}
+  .smoke-hover-zone:hover .smoke-red{opacity:.55}
+  .smoke-hover-zone:hover .smoke-rainbow{opacity:.5}
+  @keyframes green-smoke{0%,100%{transform:translate(-8px,12px) scale(.92);opacity:.12}50%{transform:translate(36px,-16px) scale(1.18);opacity:.32}}
+  @keyframes red-smoke{0%,100%{transform:translate(12px,-8px) scale(1);opacity:.12}50%{transform:translate(-32px,20px) scale(1.22);opacity:.3}}
+  @keyframes rainbow-smoke{0%,100%{transform:translateX(-30px) scaleX(.9);opacity:.12}50%{transform:translateX(30px) scaleX(1.12);opacity:.3}}
+  @keyframes rainbow-flow{to{stroke-dashoffset:-1310;filter:hue-rotate(360deg)}}
+  @media(prefers-reduced-motion:reduce){.pulse,.scan,.float,.headline-a,.headline-b,.headline-c,.smoke-green,.smoke-red,.smoke-rainbow,.rainbow-frame{animation:none}}
+</style>
+
+<rect width="1200" height="710" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="710" rx="22" fill="url(#grid)"/>
+<ellipse cx="250" cy="310" rx="340" ry="340" fill="url(#halo)"/>
+<ellipse cx="1000" cy="205" rx="300" ry="280" fill="#7c3aed" opacity=".08"/>
+<g class="smoke-hover-zone" filter="url(#smokeBlur)">
+  <ellipse class="smoke smoke-green" cx="30" cy="365" rx="175" ry="285" fill="url(#greenFog)"/>
+  <ellipse class="smoke smoke-red" cx="1170" cy="350" rx="178" ry="285" fill="url(#redFog)"/>
+  <ellipse class="smoke smoke-rainbow" cx="620" cy="4" rx="520" ry="115" fill="url(#rainbowFog)"/>
+  <ellipse class="smoke smoke-green" cx="575" cy="711" rx="460" ry="90" fill="url(#greenFog)"/>
+</g>
+<rect x="12" y="12" width="1176" height="686" rx="18" fill="none" stroke="#164e63" stroke-width="1.2"/>
+<rect x="16" y="16" width="1168" height="678" rx="16" fill="none" stroke="url(#cyan)" stroke-opacity=".82" filter="url(#glow)"/>
+<rect x="17" y="17" width="1166" height="676" rx="15" fill="none" stroke="url(#rainbowLine)" stroke-width="1.8" opacity=".72" class="rainbow-frame" filter="url(#glow)"/>
+
+<!-- README chrome and animated role line -->
+<text x="33" y="43" class="mono tiny muted">MAHITECH580 <tspan fill="#67e8f9">/</tspan> README.md</text>
+<text x="1160" y="43" text-anchor="end" class="mono" font-size="10" fill="#7892b6">PROFILE.CONSOLE // 01</text>
+<text x="520" y="78" class="mono headline headline-a">Python  |  SQL  |  Backend</text>
+<text x="520" y="78" class="mono headline headline-b">Building Practical Software</text>
+<text x="520" y="78" class="mono headline headline-c">Data  |  AI/ML  |  APIs</text>
+<path d="M32 91H1168" stroke="#164e63"/>
+<path d="M32 91H255" stroke="url(#cyan)" stroke-width="2" filter="url(#glow)"/>
+
+<!-- Left: visual map -->
+<rect x="32" y="105" width="475" height="424" rx="16" fill="#071321" stroke="#1c4561"/>
+<rect x="32" y="105" width="475" height="424" rx="16" fill="none" stroke="#22d3ee" stroke-opacity=".25"/>
+<circle cx="50" cy="125" r="4.5" fill="#fb7185"/><circle cx="65" cy="125" r="4.5" fill="#fbbf24"/><circle cx="80" cy="125" r="4.5" fill="#34d399"/>
+<text x="98" y="129" class="mono" font-size="9.5" fill="#8ba4c7">MAHI.DEV / IDENTITY.MAP</text>
+<text x="488" y="129" text-anchor="end" class="mono" font-size="9" fill="#67e8f9">VISUAL.MAP</text>
+<rect x="49" y="144" width="441" height="350" rx="10" fill="#061a34" stroke="url(#cyan)" stroke-width="1.6"/>
+<rect x="54" y="149" width="431" height="340" rx="7" fill="url(#grid)"/>
+<g clip-path="url(#visualClip)">
+  <rect x="54" y="144" width="418" height="330" fill="#061a34"/>
+  <rect x="54" y="144" width="418" height="330" fill="url(#grid)"/>
+  <circle cx="263" cy="302" r="137" fill="#0b3150" opacity=".33"/>
+  <g class="smoke-hover-zone" filter="url(#smokeBlur)">
+    <ellipse class="smoke smoke-green" cx="92" cy="425" rx="115" ry="145" fill="url(#greenFog)"/>
+    <ellipse class="smoke smoke-red" cx="443" cy="219" rx="100" ry="155" fill="url(#redFog)"/>
+    <ellipse class="smoke smoke-rainbow" cx="266" cy="460" rx="220" ry="55" fill="url(#rainbowFog)"/>
+  </g>
+  <circle cx="263" cy="302" r="124" fill="none" stroke="#22d3ee" stroke-opacity=".3" stroke-dasharray="2 8"/>
+  <circle cx="263" cy="302" r="103" fill="none" stroke="#a78bfa" stroke-opacity=".24" stroke-dasharray="2 11"/>
+  <g class="visual-face">
+    <image x="98" y="144" width="330" height="330" preserveAspectRatio="xMidYMid slice" href="https://raw.githubusercontent.com/mahitech580/mahitech580/main/assets/mahi-portrait.webp"/>
+    <rect x="98" y="144" width="330" height="330" fill="#061426" opacity=".12"/>
+  </g>
+  <rect x="54" y="144" width="418" height="330" fill="url(#dots)" opacity=".22"/>
+  <path d="M54 166H472" stroke="#67e8f9" stroke-opacity=".45" stroke-width="1.4" class="scan"/>
+  <g class="float">
+    <rect x="64" y="158" width="97" height="24" rx="5" fill="#06101f" stroke="#22d3ee" stroke-opacity=".9"/>
+    <text x="112.5" y="174" text-anchor="middle" class="mono" font-size="9" fill="#a5f3fc">mahitech580</text>
+    <rect x="358" y="437" width="98" height="24" rx="5" fill="#100a2d" stroke="#a78bfa" stroke-opacity=".9"/>
+    <text x="407" y="453" text-anchor="middle" class="mono" font-size="9" fill="#ddd6fe">DEV.MODE</text>
+  </g>
+  <path d="M54 462H472" stroke="#38bdf8" stroke-opacity=".48"/>
+  <text x="68" y="479" class="mono" font-size="8.5" fill="#7dd3fc">GREEN SMOKE / CRIMSON HAZE / RAINBOW GLOW</text>
+</g>
+<text x="49" y="514" class="mono" font-size="10" fill="#a5f3fc">MAHENDRA SAI KONDAVEETI</text>
+<text x="490" y="514" text-anchor="end" class="mono" font-size="10" fill="#8ba4c7">CSE GRADUATE · 2026</text>
+
+<!-- Right: system information -->
+<rect x="523" y="105" width="645" height="424" rx="16" fill="#080e1f" fill-opacity=".97" stroke="#253c6b"/>
+<text x="546" y="130" class="mono tiny violet">SYSTEM.INFO <tspan fill="#536b91">/</tspan> mahi_profile.json</text>
+<text x="1147" y="130" text-anchor="end" class="mono" font-size="9.5" fill="#34d399">● CONNECTED</text>
+<path d="M546 143H1145" stroke="#312e81"/>
+<g class="mono">
+  <text x="546" y="162" class="label">SUBJECT</text><text x="681" y="162" class="value">MAHENDRA SAI KONDAVEETI</text>
+  <text x="546" y="181" class="label">ROLE</text><text x="681" y="181" class="value">SOFTWARE DEVELOPER / ENTRY LEVEL</text>
+  <text x="546" y="200" class="label">ORIGIN</text><text x="681" y="200" class="value">INDIA</text>
+  <text x="546" y="219" class="label">EDUCATION</text><text x="681" y="219" class="value">CSE GRADUATE · 2026</text>
+  <text x="546" y="238" class="label">STATUS</text><text x="681" y="238" class="value" fill="#86efac">OPEN TO ENTRY-LEVEL ROLES</text>
+  <text x="546" y="257" class="label">TOOLCHAIN</text><text x="681" y="257" class="value">GIT / GITHUB / VS CODE</text>
+  <text x="546" y="276" class="label">CORE.LANG</text><text x="681" y="276" class="value">PYTHON / SQL / JAVASCRIPT</text>
+  <text x="546" y="295" class="label">CORE.FRONTEND</text><text x="681" y="295" class="value">HTML / CSS / REACT</text>
+  <text x="546" y="314" class="label">CORE.BACKEND</text><text x="681" y="314" class="value">FLASK / FASTAPI / REST APIs</text>
+  <text x="546" y="333" class="label">CORE.DATABASE</text><text x="681" y="333" class="value">MYSQL / POSTGRESQL / SQLITE</text>
+  <text x="546" y="352" class="label">CORE.DATA</text><text x="681" y="352" class="value">PANDAS / NUMPY / SCIKIT-LEARN</text>
+</g>
+<path d="M546 365H1145" stroke="#1e3a5f"/>
+<text x="546" y="384" class="mono tiny cyan">CONTACT.ROUTES</text>
+<text x="546" y="402" class="mono" font-size="11.5" fill="#e5f7ff">GITHUB    github.com/mahitech580</text>
+<text x="546" y="420" class="mono" font-size="11.5" fill="#e5f7ff">LINKEDIN  /in/mahendra-sai-kondaveeti</text>
+<rect x="546" y="434" width="190" height="25" rx="5" fill="#071d2b" stroke="#22d3ee" stroke-opacity=".8"/>
+<text x="641" y="450" text-anchor="middle" class="mono" font-size="10" fill="#a5f3fc">PYTHON · SQL · WEB</text>
+<rect x="746" y="434" width="185" height="25" rx="5" fill="#100a2d" stroke="#a78bfa" stroke-opacity=".8"/>
+<text x="838.5" y="450" text-anchor="middle" class="mono" font-size="10" fill="#ddd6fe">DATA · AI/ML</text>
+<rect x="941" y="434" width="204" height="25" rx="5" fill="#052e2b" stroke="#10b981" stroke-opacity=".75"/>
+<circle cx="957" cy="446.5" r="3" fill="#34d399" class="pulse"/>
+<text x="1044" y="450" text-anchor="middle" class="mono" font-size="10" fill="#a7f3d0">READY TO CONTRIBUTE</text>
+<text x="546" y="490" class="mono" font-size="10.5" fill="#67e8f9">&gt; BUILD. LEARN. SOLVE. REPEAT.<tspan class="pulse"> _</tspan></text>
+
+<!-- Three compact dashboard modules -->
+<g>
+  <rect x="32" y="547" width="360" height="91" rx="11" fill="#071321" stroke="#164e63"/>
+  <text x="51" y="570" class="mono tiny muted">PROJECT.INDEX</text>
+  <text x="51" y="600" class="ui" font-size="22" font-weight="700" fill="#eaf7ff">10 <tspan font-size="13" font-weight="500" fill="#67e8f9">FEATURED PROJECTS</tspan></text>
+  <text x="51" y="620" class="mono" font-size="10" fill="#7892b6">SOFTWARE / SQL / APPLIED AI</text>
+
+  <rect x="420" y="547" width="360" height="91" rx="11" fill="#071321" stroke="#164e63"/>
+  <text x="439" y="570" class="mono tiny muted">ENGINEERING.FOCUS</text>
+  <text x="439" y="600" class="ui" font-size="19" font-weight="700" fill="#eaf7ff">PYTHON <tspan fill="#67e8f9">·</tspan> SQL <tspan fill="#a78bfa">·</tspan> APIs</text>
+  <text x="439" y="620" class="mono" font-size="10" fill="#7892b6">DATABASES / DATA / AI-ML</text>
+
+  <rect x="808" y="547" width="360" height="91" rx="11" fill="#071321" stroke="#164e63"/>
+  <text x="827" y="570" class="mono tiny muted">CAREER.STATUS</text>
+  <text x="827" y="600" class="ui" font-size="21" font-weight="700" fill="#86efac">OPEN TO WORK</text>
+  <text x="827" y="620" class="mono" font-size="10" fill="#7892b6">ENTRY-LEVEL SOFTWARE ROLES</text>
+</g>
+<path d="M32 660H1168" stroke="#164e63"/>
+<text x="33" y="681" class="mono tiny muted">GITHUB.COM/MAHITECH580</text>
+<text x="1167" y="681" text-anchor="end" class="mono tiny muted">SYSTEM ONLINE <tspan fill="#22d3ee">◆</tspan> PERSONAL PROFILE</text>
+</svg>

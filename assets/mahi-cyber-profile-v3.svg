@@ -18,18 +18,10 @@
   <linearGradient id="rainbowLine" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#22c55e"/><stop offset=".18" stop-color="#22d3ee"/><stop offset=".36" stop-color="#6366f1"/><stop offset=".54" stop-color="#d946ef"/><stop offset=".72" stop-color="#ef4444"/><stop offset=".88" stop-color="#f59e0b"/><stop offset="1" stop-color="#22c55e"/>
   </linearGradient>
-  <filter id="smokeBlur" x="-60%" y="-60%" width="220%" height="220%">
-    <feTurbulence type="fractalNoise" baseFrequency=".012 .035" numOctaves="2" seed="9" result="noise"/>
-    <feDisplacementMap in="SourceGraphic" in2="noise" scale="28" xChannelSelector="R" yChannelSelector="G"/>
-    <feGaussianBlur stdDeviation="20"/>
-  </filter>
+  <filter id="smokeBlur" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="10"/></filter>
   <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#22d3ee" stroke-opacity=".075"/><circle cx="0" cy="0" r="1" fill="#67e8f9" fill-opacity=".18"/></pattern>
   <pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".9" fill="#e0f2fe" fill-opacity=".12"/></pattern>
   <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3.3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <filter id="speckle" x="-18%" y="-18%" width="136%" height="136%">
-    <feTurbulence type="fractalNoise" baseFrequency=".65" numOctaves="1" seed="9" result="noise"/>
-    <feDisplacementMap in="SourceGraphic" in2="noise" scale="2.6" xChannelSelector="R" yChannelSelector="G"/>
-  </filter>
   <clipPath id="visualClip"><rect x="54" y="144" width="418" height="330" rx="8"/></clipPath>
 </defs>
 <style>
@@ -50,7 +42,7 @@
   .headline-b{animation:headline-b 16s linear infinite}
   .headline-c{animation:headline-c 16s linear infinite}
   .visual-face{opacity:1}
-  .smoke{mix-blend-mode:screen;transform-box:fill-box;transform-origin:center;opacity:.22}
+  .smoke{opacity:.18}
   .smoke-green{animation:green-smoke 13s ease-in-out infinite}
   .smoke-red{animation:red-smoke 15s ease-in-out infinite}
   .smoke-rainbow{animation:rainbow-smoke 18s ease-in-out infinite}
@@ -58,10 +50,10 @@
   .smoke-hover-zone:hover .smoke-green{opacity:.52}
   .smoke-hover-zone:hover .smoke-red{opacity:.55}
   .smoke-hover-zone:hover .smoke-rainbow{opacity:.5}
-  @keyframes green-smoke{0%,100%{transform:translate(-8px,12px) scale(.92);opacity:.12}50%{transform:translate(36px,-16px) scale(1.18);opacity:.32}}
-  @keyframes red-smoke{0%,100%{transform:translate(12px,-8px) scale(1);opacity:.12}50%{transform:translate(-32px,20px) scale(1.22);opacity:.3}}
-  @keyframes rainbow-smoke{0%,100%{transform:translateX(-30px) scaleX(.9);opacity:.12}50%{transform:translateX(30px) scaleX(1.12);opacity:.3}}
-  @keyframes rainbow-flow{to{stroke-dashoffset:-1310;filter:hue-rotate(360deg)}}
+  @keyframes green-smoke{0%,100%{opacity:.12}50%{opacity:.28}}
+  @keyframes red-smoke{0%,100%{opacity:.12}50%{opacity:.27}}
+  @keyframes rainbow-smoke{0%,100%{opacity:.1}50%{opacity:.25}}
+  @keyframes rainbow-flow{to{stroke-dashoffset:-1310}}
   @media(prefers-reduced-motion:reduce){.pulse,.scan,.float,.headline-a,.headline-b,.headline-c,.smoke-green,.smoke-red,.smoke-rainbow,.rainbow-frame{animation:none}}
 </style>
 
